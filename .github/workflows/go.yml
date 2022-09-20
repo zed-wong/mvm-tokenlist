@@ -23,3 +23,8 @@ jobs:
 
     - name: Update
       run: go run main.go
+
+    - uses: actions/upload-artifact@v3
+      with:
+        name: my-artifact
+        path: mvm-tokenlist.json

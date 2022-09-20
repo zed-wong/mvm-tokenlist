@@ -61,3 +61,4 @@ func main() {
 	writeFile(NAME, o.StringIndent("", " "))
 	fmt.Println("Token info saved in", NAME)
 }
+

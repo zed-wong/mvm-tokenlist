@@ -4,7 +4,7 @@ MVM token list in [defillama format](https://defillama-datasets.s3.eu-central-1.
 
 See [mvm-tokenlist.json](mvm-tokenlist.json)
 
-[Uniswap token list format](https://github.com/Uniswap/token-lists) in WIP.
+[Uniswap token list format](https://github.com/Uniswap/token-lists) is WIP.
 
 
 ### Generate latest token list

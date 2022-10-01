@@ -55,6 +55,8 @@ func main() {
 		obj.Set(asset.Name, res.AssetContract, "name")
 		obj.Set(asset.Symbol, res.AssetContract, "symbol")
 		obj.Set(asset.IconURL, res.AssetContract, "logoURI")
+		obj.Set(73927, res.AssetContract, "chainId")
+		obj.Set(8, res.AssetContract, "decimals")
 		fmt.Println(obj.StringIndent("", " "))
 		o.Merge(obj)
 	}

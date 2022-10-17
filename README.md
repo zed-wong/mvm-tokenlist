@@ -1,6 +1,6 @@
 # MVM Token List
 
-MVM token list in [defillama format](https://defillama-datasets.s3.eu-central-1.amazonaws.com/tokenlist/ethereum.json)
+MVM token list in [defillama format](https://defillama-datasets.s3.eu-central-1.amazonaws.com/tokenlist/ethereum.json) fetched from api.mvm.dev.
 
 See [mvm-tokenlist.json](mvm-tokenlist.json)
 

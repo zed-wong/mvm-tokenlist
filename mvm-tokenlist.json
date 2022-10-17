@@ -55,6 +55,13 @@
   "name": "Ether",
   "symbol": "ETH"
  },
+ "0x27AD0c8e919bc6163Fdf564DE6Bbd9F2fe9cD1f0": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/dLK5T9I4YFA094o6nn-qZ_TWLUtIrL0xtjxOyURaLoPcl94m0JKQhXQiOrC775LS9d8apDfLXVfbpDzGmWDf0CWJ=s128",
+  "name": "Litecoin",
+  "symbol": "LTC"
+ },
  "0x2Da4EF85E73Ca804F37595997CC491C820023aB8": {
   "chainId": 73927,
   "decimals": 8,
@@ -104,12 +111,12 @@
   "name": "Quorum Token",
   "symbol": "RUM"
  },
- "0x9bf5E97cfF222A4358B1a375C065d16851fAe485": {
+ "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,
   "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/VvNrYJDwMh4HbKmnSQrzFvJbNd3pRtP1N-4cXFi09BluI2BMUAmxHsoXXXRO7y4q9cqs5qAXz-XondTANQgklzKu=s128",
-  "name": "Handshake",
-  "symbol": "HNS"
+  "logoURI": "https://mixin-images.zeromesh.net/cavDRk4GVSA9oezAmp3mbEieoi8rqkPBVNB29y13sQuYO2JClWGLNvrf5_GJmltNY_6aviqIcmJV3-DmFFGT74U=s128",
+  "name": "HuobiToken",
+  "symbol": "HT"
  },
  "0xBcbC18B37250aC7E9F983141046D56c0aB032d00": {
   "chainId": 73927,
@@ -138,6 +145,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/OTwqLjEwc6v0JutJc-1sYkh_juFOvVbFz26WvvwfLGdKq6ZtwAT-wKhX0k-5PsgOK_Pd9rCQjZfwMJmiNXCBzpHnjapBtkCqAVCTCg=s128",
   "name": "EOS",
   "symbol": "EOS"
+ },
+ "0xF2654Dfbb2499C0314aC2a5B4F2806A70B949e08": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/xkVpLEupcPeeyXJvsnRHXpB4svn6S3x6l7ZVu_A7_gCVQvv1IRr4h7LHUl86K-z4j6dtJ04pGRRW_JLIXcDCk_HCNcprfLgYnycF=s128",
+  "name": "Pando Rings USDT",
+  "symbol": "rUSDT"
  },
  "0xF7418b9535363d23796711B4406AeF7155451839": {
   "chainId": 73927,

@@ -133,4 +133,5 @@ func MVGTokenlist(name string) {
 
 func main() {
 	MVGTokenlist(NAMES[0])
+	llamaTokenlist(NAMES[1])
 }

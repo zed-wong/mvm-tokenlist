@@ -116,7 +116,7 @@ func MVGTokenlist(name string) {
 
 		if (isLpToken(asset.Name)) { continue }
 		if (isRings(asset.Name)) { continue }
-		obj.Set(isStable(asset.Name), res.AssetContract, "stable")
+		obj.Set(isStable(asset.Symbol), res.AssetContract, "stable")
 		obj.Set(asset.AssetID, res.AssetContract, "mixinAssetId")
 		obj.Set(asset.ChainID, res.AssetContract, "mixinChainId")
 		obj.Set(asset.Name, res.AssetContract, "name")

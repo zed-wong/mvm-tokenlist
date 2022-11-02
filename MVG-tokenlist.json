@@ -16,7 +16,7 @@
   "mixinAssetId": "9b180ab6-6abe-3dc0-a13f-04169eb34bfa",
   "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
   "name": "USD//C",
-  "stable": false,
+  "stable": true,
   "symbol": "USDC"
  },
  "0x0e42Ae5649B3a67842AF0F3fC21d09d9b850A694": {
@@ -96,7 +96,7 @@
   "mixinAssetId": "4d8c508b-91c5-375b-92b0-ee702ed2dac5",
   "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
   "name": "Tether USD",
-  "stable": false,
+  "stable": true,
   "symbol": "USDT"
  },
  "0x5bAB2E09E7c67A5803D08CF312A407B1d9f223f4": {
@@ -186,7 +186,7 @@
   "mixinAssetId": "31d2ea9c-95eb-3355-b65b-ba096853bc18",
   "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
   "name": "Pando USD",
-  "stable": false,
+  "stable": true,
   "symbol": "pUSD"
  },
  "0xaC2ac36102f96f1FdEd2724F1d54b9FCa6bBf1Ee": {
@@ -196,7 +196,7 @@
   "mixinAssetId": "b91e18ff-a9ae-3dc7-8679-e935d9a4b34b",
   "mixinChainId": "25dabac5-056a-48ff-b9f9-f67395dc407c",
   "name": "Tether USD",
-  "stable": false,
+  "stable": true,
   "symbol": "USDT"
  },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {

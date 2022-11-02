@@ -17,7 +17,7 @@ jobs:
       run: go mod tidy
 
     - name: Run 
-      run: go run hello.go
+      run: go run main.go
 
     - name: Commit
       run: |

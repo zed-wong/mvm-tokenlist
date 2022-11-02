@@ -69,6 +69,13 @@
   "name": "Ether",
   "symbol": "ETH"
  },
+ "0x1Eed5e5d1599b529Ca61cd51F1d6aa2da55533A6": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/r5i6ggKtzBPiKoFxTt0ICcwgW8LnP-UaY_jpz3iFH-nrL0UtRxftOEt3cfgdlbFt33xvPd2nfXDEDIQ3HICicyz-qUSvZ2RbgQXh7g=s128",
+  "name": "4swap LP Token RUM-USDT",
+  "symbol": "sRUM-USDT"
+ },
  "0x27AD0c8e919bc6163Fdf564DE6Bbd9F2fe9cD1f0": {
   "chainId": 73927,
   "decimals": 8,
@@ -131,6 +138,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/e_y4q9JIdP1PZbwmwO_6v-fx7_ZyifODuYtHvLQDrkLNwH3pQTDVY0EHZA394gjZawwyt3vPC7NlMvyT2nEuPypeDioV_OMd6T8=s128",
   "name": "Quorum Token",
   "symbol": "RUM"
+ },
+ "0x76a6C3D0F25308F78ccB5e0342A32A9B9A4D0eb2": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/qVqkBADoL6CREIRFCfUZtmD6PtWw8sQzZuiZicDepZYFv82MEansksclxlnnYcjOvsJTjpw4Q3sQHSyJLic9Nlo5Y2s6nUdJJb31=s128",
+  "name": "4swap LP Token USDT-BTC",
+  "symbol": "sUSDT-BTC"
  },
  "0x910Fb1751B946C7D691905349eC5dD250EFBF40a": {
   "chainId": 73927,

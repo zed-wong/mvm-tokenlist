@@ -13,6 +13,13 @@
   "name": "4swap LP Token PRS-EOS",
   "symbol": "sUSDT-BOX"
  },
+ "0x034A771797a1C8694Bc33E1AA89f51d1f828e5A4": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/UasWtBZO0TZyLTLCFQjvE_UYekjC7eHCuT_9_52ZpzmCC-X-NPioVegng7Hfx0XmIUavZgz5UL-HIgPCBECc-Ws=s128",
+  "name": "Mixin",
+  "symbol": "XIN"
+ },
  "0x07DeF5AD4e59Ff1f64694fBA1BA4E513A71E4a83": {
   "chainId": 73927,
   "decimals": 8,

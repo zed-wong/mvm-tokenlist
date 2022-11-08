@@ -1,4 +1,14 @@
 {
+ "0x034A771797a1C8694Bc33E1AA89f51d1f828e5A4": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/UasWtBZO0TZyLTLCFQjvE_UYekjC7eHCuT_9_52ZpzmCC-X-NPioVegng7Hfx0XmIUavZgz5UL-HIgPCBECc-Ws=s128",
+  "mixinAssetId": "c94ac88f-4671-3976-b60a-09064f1811e8",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Mixin",
+  "stable": false,
+  "symbol": "XIN"
+ },
  "0x07DeF5AD4e59Ff1f64694fBA1BA4E513A71E4a83": {
   "chainId": 73927,
   "decimals": 8,
@@ -78,16 +88,6 @@
   "name": "Akita Inu",
   "stable": false,
   "symbol": "AKITA"
- },
- "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
-  "mixinAssetId": "b5289c48-ec3a-3cdb-b2c4-0913d1812cd5",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Meta AED",
-  "stable": false,
-  "symbol": "mAED"
  },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
@@ -228,6 +228,16 @@
   "name": "Uniswap",
   "stable": false,
   "symbol": "UNI"
+ },
+ "0xa8090F6f19295321968B2f3BcDB44d20bB15742e": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/cH4GWuPXbzeZl6OOunpn7BxE25n3v8URwnNszs0FpZqv3OTlxP1zpzKw89VKTpBwWL-Ned1R36mmy1C4GMuPX1rL-PjfEJ2zby9V=s128",
+  "mixinAssetId": "31d2ea9c-95eb-3355-b65b-ba096853bc18",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Pando USD",
+  "stable": true,
+  "symbol": "pUSD"
  },
  "0xaC2ac36102f96f1FdEd2724F1d54b9FCa6bBf1Ee": {
   "chainId": 73927,

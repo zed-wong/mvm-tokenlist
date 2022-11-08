@@ -6,6 +6,13 @@
   "name": "Pando Rings ETH",
   "symbol": "rETH"
  },
+ "0x034A771797a1C8694Bc33E1AA89f51d1f828e5A4": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/UasWtBZO0TZyLTLCFQjvE_UYekjC7eHCuT_9_52ZpzmCC-X-NPioVegng7Hfx0XmIUavZgz5UL-HIgPCBECc-Ws=s128",
+  "name": "Mixin",
+  "symbol": "XIN"
+ },
  "0x07DeF5AD4e59Ff1f64694fBA1BA4E513A71E4a83": {
   "chainId": 73927,
   "decimals": 8,
@@ -68,13 +75,6 @@
   "logoURI": "https://mixin-images.zeromesh.net/JSxN4FxhH3LNDowo22bEV3fGMdrGmKrYzGyNqGbYe72GFEitLVFfwmxrjEE8ZDzqAc14LWUcuHtHiO8l7ODyExmnLwM3aPdx8D0Z=s128",
   "name": "Akita Inu",
   "symbol": "AKITA"
- },
- "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
-  "name": "Meta AED",
-  "symbol": "mAED"
  },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
@@ -187,6 +187,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/Ekf9UzoHhRRfcDLchjfVrRPYZ_71jQt306WcvgwZWwEM2BIGlHcUm_sK3Nw_mjARPwIvNB9xAzAEWJyW86pVuarPu8O5YZ0WwqTo=s128",
   "name": "Uniswap",
   "symbol": "UNI"
+ },
+ "0xa8090F6f19295321968B2f3BcDB44d20bB15742e": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/cH4GWuPXbzeZl6OOunpn7BxE25n3v8URwnNszs0FpZqv3OTlxP1zpzKw89VKTpBwWL-Ned1R36mmy1C4GMuPX1rL-PjfEJ2zby9V=s128",
+  "name": "Pando USD",
+  "symbol": "pUSD"
  },
  "0xaC2ac36102f96f1FdEd2724F1d54b9FCa6bBf1Ee": {
   "chainId": 73927,

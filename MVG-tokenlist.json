@@ -89,6 +89,16 @@
   "stable": false,
   "symbol": "AKITA"
  },
+ "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
+  "mixinAssetId": "b5289c48-ec3a-3cdb-b2c4-0913d1812cd5",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Meta AED",
+  "stable": false,
+  "symbol": "mAED"
+ },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
   "decimals": 8,

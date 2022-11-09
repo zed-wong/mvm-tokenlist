@@ -76,6 +76,13 @@
   "name": "Akita Inu",
   "symbol": "AKITA"
  },
+ "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
+  "name": "Meta AED",
+  "symbol": "mAED"
+ },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
   "decimals": 8,

@@ -1,11 +1,4 @@
 {
- "0x01245b54a21cbb6e462853a9517Fc2527CFAF6d7": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/41w4dQBJkqGDk-BmF_oewxHICFKpIEeLlNlqHjLrGlKBkmnhzq8kU3xqdWKlejC0xn8TjhYVcZDREM6D8ACNJsvzjqvKf0q3PT9iEg=s128",
-  "name": "Pando Rings ETH",
-  "symbol": "rETH"
- },
  "0x01Cf08794F3BB05d61F6A96B490be8d6E095B1b7": {
   "chainId": 73927,
   "decimals": 8,
@@ -27,12 +20,12 @@
   "name": "USD//C",
   "symbol": "USDC"
  },
- "0x0Bfbf9C4A81F9A9569C56efabC3047bc176555E6": {
+ "0x0A11b6410354de9703EadCa8F4D7a76dCE4C2ceA": {
   "chainId": 73927,
   "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/QO8u8v2o3gOh9rvxh5TIIu1HbOb-F_J-RjGkDnDLOprQwfeR0Q3BHkb-SifsnHhMmG2M6Rq2-2EG_xdFRCLuuDrd8eQpWqAiXqOR=s128",
-  "name": "Pando Rings BTC",
-  "symbol": "rBTC"
+  "logoURI": "https://mixin-images.zeromesh.net/joUO5C8mbsW5CiGSpnAiaLE_5xfh-SoPQ5i7IcNfrQHuWHnk7F6vRT2IXMbDAMKDS-NMYEwfxjRKYowri6essY4=s128",
+  "name": "4swap LP Token EOS-XIN",
+  "symbol": "sEOS-XIN"
  },
  "0x0e42Ae5649B3a67842AF0F3fC21d09d9b850A694": {
   "chainId": 73927,
@@ -83,12 +76,26 @@
   "name": "4swap LP Token USDT-pUSD",
   "symbol": "sUSDT-pUSD"
  },
+ "0x2e0D1cc6c800188b9c93C559403Ea54Bc5d5ff98": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/JSxN4FxhH3LNDowo22bEV3fGMdrGmKrYzGyNqGbYe72GFEitLVFfwmxrjEE8ZDzqAc14LWUcuHtHiO8l7ODyExmnLwM3aPdx8D0Z=s128",
+  "name": "Akita Inu",
+  "symbol": "AKITA"
+ },
  "0x39028Df0a20426a0d724Ab1504A9a862FA40608a": {
   "chainId": 73927,
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/CtuFhqtCKJliKCWw9-1EemlPMOnUs1b_Nh0XUjzHlVt3OmLi_vwPu01xbYC8Js9-2APTK8s4aAMree7LC8gH6FQ=s128",
   "name": "BigONE Token",
   "symbol": "ONE"
+ },
+ "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
+  "name": "Meta AED",
+  "symbol": "mAED"
  },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
@@ -104,6 +111,13 @@
   "name": "Tether USD",
   "symbol": "USDT"
  },
+ "0x5Ab395E7f97Dd853685475C9Be088f6Dfb362FDb": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/tzcvMLmwDHX5TxbE_yQK9DpHERnWOZ0Rn8j5XgltqFoYfS9Y8vMTje95mPr4SfSSq9Tn210VNSIgJkdEcKXyoLEBgVdzT15vLjf9=s128",
+  "name": "Euro Tether",
+  "symbol": "EURT"
+ },
  "0x5bAB2E09E7c67A5803D08CF312A407B1d9f223f4": {
   "chainId": 73927,
   "decimals": 8,
@@ -117,13 +131,6 @@
   "logoURI": "https://mixin-images.zeromesh.net/eTzm8_cWke8NqJ3zbQcx7RkvbcTytD_NgBpdwIAgKJRpOoo0S0AQ3IQ-YeBJgUKmpsMPUHcZFzfuWowv3801cF5HXfya5MQ9fTA9HQ=s128",
   "name": "Solana",
   "symbol": "SOL"
- },
- "0x6CAE838361447259Cdb060B39B3EB0416a800CbE": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/lhU3wzyjmaldHb2-R49Y8ad_FenCs6KuaSzS91P7Lu8zwHYrCCmuv636eRTblx1NjZTsBlQeFwz7rdsaJMv33gDDgKd9SPXS6t8=s128",
-  "name": "Pando Rings DOGE",
-  "symbol": "rDOGE"
  },
  "0x6FC8966C21DCd8efF5743ADF0248a5277Fc83272": {
   "chainId": 73927,
@@ -146,12 +153,26 @@
   "name": "4swap LP Token USDT-BTC",
   "symbol": "sUSDT-BTC"
  },
+ "0x81995729Ead9Db862e386a5AE4906b5E2f68B4A2": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/IVNDfZnoc7khjQJ2ldlzGJDJVSBD_hazCloDu5GKEd_nrIjfxvTUuI7hOYEYZElTyhDPRExty3fKm8ZSptkhtUpa9E4CbHGYccVQ=s128",
+  "name": "Tether Gold",
+  "symbol": "XAUt"
+ },
  "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/cavDRk4GVSA9oezAmp3mbEieoi8rqkPBVNB29y13sQuYO2JClWGLNvrf5_GJmltNY_6aviqIcmJV3-DmFFGT74U=s128",
   "name": "HuobiToken",
   "symbol": "HT"
+ },
+ "0x850a826ef4CF899109a0dd4684E23262fFC7AB28": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/oDZ5OLP0szYvHbC2XjolqKfYyY0WYP2YcvwQyOPfdYXQZFYIbU66BnhAM3GKlhJSIToLkxzS6tFVeYiQH-00DuPdzdlh7W7vtfP-=s128",
+  "name": "4swap LP Token DOGE-CNB",
+  "symbol": "sDOGE-CNB"
  },
  "0x8A179D75a5F26038b8485BEE9A2dFb523F114A4f": {
   "chainId": 73927,
@@ -202,13 +223,6 @@
   "name": "EOS",
   "symbol": "EOS"
  },
- "0xF2654Dfbb2499C0314aC2a5B4F2806A70B949e08": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/xkVpLEupcPeeyXJvsnRHXpB4svn6S3x6l7ZVu_A7_gCVQvv1IRr4h7LHUl86K-z4j6dtJ04pGRRW_JLIXcDCk_HCNcprfLgYnycF=s128",
-  "name": "Pando Rings USDT",
-  "symbol": "rUSDT"
- },
  "0xF7418b9535363d23796711B4406AeF7155451839": {
   "chainId": 73927,
   "decimals": 8,
@@ -229,6 +243,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/ndNBEpObYs7450U08oAOMnSEPzN66SL8Mh-f2pPWBDeWaKbXTPUIdrZph7yj8Z93Rl8uZ16m7Qjz-E-9JFKSsJ-F=s128",
   "name": "Tether USD",
   "symbol": "USDT"
+ },
+ "0xb272EdBF33D74F175B114471D0d0629cEC534879": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/cT6iwy8ykm5SNYj-bgBKsqHOGALUJjifG-pGX0tFdB_lwUMsyZRUOtTlkIA7ktRJfMLEMY4g2UYxhTRlPjVZy52fKgLysRDYvwBz=s128",
+  "name": "FTT",
+  "symbol": "FTX Token"
  },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {
   "chainId": 73927,

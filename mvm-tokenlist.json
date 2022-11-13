@@ -209,6 +209,13 @@
   "name": "BOX Token",
   "symbol": "BOX"
  },
+ "0xCA67A26BE8A863f3460b7Ae59CB24C35BE71277E": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/Tb-MIR6XkwgqoO7K3KoQVgKw7Fq8Orlw6K7slteBDe_yVo4O52j1ena6YllTXCZbY5e0SCzl1ZHZH3-qAbh9tDUuq30Lu4RK_6l2=s128",
+  "name": "4swap LP Token ETH-pUSD",
+  "symbol": "sETH-pUSD"
+ },
  "0xE3cb8a2b08A760d4FC04d9C1f609d1c82fB75f60": {
   "chainId": 73927,
   "decimals": 8,
@@ -244,13 +251,6 @@
   "name": "Tether USD",
   "symbol": "USDT"
  },
- "0xb272EdBF33D74F175B114471D0d0629cEC534879": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/cT6iwy8ykm5SNYj-bgBKsqHOGALUJjifG-pGX0tFdB_lwUMsyZRUOtTlkIA7ktRJfMLEMY4g2UYxhTRlPjVZy52fKgLysRDYvwBz=s128",
-  "name": "FTT",
-  "symbol": "FTX Token"
- },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {
   "chainId": 73927,
   "decimals": 8,
@@ -264,5 +264,12 @@
   "logoURI": "https://mixin-images.zeromesh.net/CG3tv_IHBYhLbY5prHubEXO5Y4gW4ag2bYN2bczsSs5eI7CNrpdXi3PgJjRxsy1f4Do4I8JVIFOT48-7NeOB4qaEgHTMgXLV1hEcmg=s128",
   "name": "Decentraland MANA",
   "symbol": "MANA"
+ },
+ "0xcCA48efd3E546Ff1B82F1DD2F50C324A9b683065": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/SLY97KrtRfySQbCq-QQ7qumjsKzuGwuD1ODqjFaKbnOm1EdbtrP4ts1GCADVDoFJ4rjQq9P7SUrPchWgU2dNFA=s128",
+  "name": "4swap LP Token ETH-XIN",
+  "symbol": "sETH-XIN"
  }
 }

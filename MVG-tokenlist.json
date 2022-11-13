@@ -299,16 +299,6 @@
   "stable": true,
   "symbol": "USDT"
  },
- "0xb272EdBF33D74F175B114471D0d0629cEC534879": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/cT6iwy8ykm5SNYj-bgBKsqHOGALUJjifG-pGX0tFdB_lwUMsyZRUOtTlkIA7ktRJfMLEMY4g2UYxhTRlPjVZy52fKgLysRDYvwBz=s128",
-  "mixinAssetId": "0c79a53f-9caf-3e7c-a3ce-1edcba33301f",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "FTT",
-  "stable": false,
-  "symbol": "FTX Token"
- },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {
   "chainId": 73927,
   "decimals": 8,

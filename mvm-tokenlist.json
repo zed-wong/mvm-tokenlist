@@ -104,6 +104,13 @@
   "name": "Dogecoin",
   "symbol": "DOGE"
  },
+ "0x4a7B4e0A819b55b355d39fEC286162C593c9E1b9": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/J8FkQaYJDR5RXZvzMkgQJRDimIrGxML6D5U7RfKFGSShKcW62dNNad2jA1oUXWk8kJdHahc25ebNnJgCxY_3bfZyxAptKqcOCYg=s128",
+  "name": "Uqinzen",
+  "symbol": "UQn"
+ },
  "0x59e0f2E9254dB4D662eF36a02118eC5DBd9f8dfb": {
   "chainId": 73927,
   "decimals": 8,
@@ -166,13 +173,6 @@
   "logoURI": "https://mixin-images.zeromesh.net/cavDRk4GVSA9oezAmp3mbEieoi8rqkPBVNB29y13sQuYO2JClWGLNvrf5_GJmltNY_6aviqIcmJV3-DmFFGT74U=s128",
   "name": "HuobiToken",
   "symbol": "HT"
- },
- "0x850a826ef4CF899109a0dd4684E23262fFC7AB28": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/oDZ5OLP0szYvHbC2XjolqKfYyY0WYP2YcvwQyOPfdYXQZFYIbU66BnhAM3GKlhJSIToLkxzS6tFVeYiQH-00DuPdzdlh7W7vtfP-=s128",
-  "name": "4swap LP Token DOGE-CNB",
-  "symbol": "sDOGE-CNB"
  },
  "0x8A179D75a5F26038b8485BEE9A2dFb523F114A4f": {
   "chainId": 73927,

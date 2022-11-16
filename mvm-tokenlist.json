@@ -174,6 +174,13 @@
   "name": "HuobiToken",
   "symbol": "HT"
  },
+ "0x850a826ef4CF899109a0dd4684E23262fFC7AB28": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/oDZ5OLP0szYvHbC2XjolqKfYyY0WYP2YcvwQyOPfdYXQZFYIbU66BnhAM3GKlhJSIToLkxzS6tFVeYiQH-00DuPdzdlh7W7vtfP-=s128",
+  "name": "4swap LP Token DOGE-CNB",
+  "symbol": "sDOGE-CNB"
+ },
  "0x8A179D75a5F26038b8485BEE9A2dFb523F114A4f": {
   "chainId": 73927,
   "decimals": 8,

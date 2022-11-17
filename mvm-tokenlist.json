@@ -104,13 +104,6 @@
   "name": "Dogecoin",
   "symbol": "DOGE"
  },
- "0x4a7B4e0A819b55b355d39fEC286162C593c9E1b9": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/J8FkQaYJDR5RXZvzMkgQJRDimIrGxML6D5U7RfKFGSShKcW62dNNad2jA1oUXWk8kJdHahc25ebNnJgCxY_3bfZyxAptKqcOCYg=s128",
-  "name": "Uqinzen",
-  "symbol": "UQn"
- },
  "0x59e0f2E9254dB4D662eF36a02118eC5DBd9f8dfb": {
   "chainId": 73927,
   "decimals": 8,

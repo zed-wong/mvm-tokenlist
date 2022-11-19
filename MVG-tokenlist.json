@@ -79,16 +79,6 @@
   "stable": true,
   "symbol": "DAI"
  },
- "0x2e0D1cc6c800188b9c93C559403Ea54Bc5d5ff98": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/JSxN4FxhH3LNDowo22bEV3fGMdrGmKrYzGyNqGbYe72GFEitLVFfwmxrjEE8ZDzqAc14LWUcuHtHiO8l7ODyExmnLwM3aPdx8D0Z=s128",
-  "mixinAssetId": "aa189c4c-99ca-39eb-8d96-71a8f6f7218a",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Akita Inu",
-  "stable": false,
-  "symbol": "AKITA"
- },
  "0x39028Df0a20426a0d724Ab1504A9a862FA40608a": {
   "chainId": 73927,
   "decimals": 8,
@@ -98,16 +88,6 @@
   "name": "BigONE Token",
   "stable": false,
   "symbol": "ONE"
- },
- "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
-  "mixinAssetId": "b5289c48-ec3a-3cdb-b2c4-0913d1812cd5",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Meta AED",
-  "stable": false,
-  "symbol": "mAED"
  },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
@@ -128,16 +108,6 @@
   "name": "Tether USD",
   "stable": true,
   "symbol": "USDT"
- },
- "0x5Ab395E7f97Dd853685475C9Be088f6Dfb362FDb": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/tzcvMLmwDHX5TxbE_yQK9DpHERnWOZ0Rn8j5XgltqFoYfS9Y8vMTje95mPr4SfSSq9Tn210VNSIgJkdEcKXyoLEBgVdzT15vLjf9=s128",
-  "mixinAssetId": "2f5bef0e-d41a-3cf3-b6fa-b8dd0d8a3327",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Euro Tether",
-  "stable": false,
-  "symbol": "EURT"
  },
  "0x5bAB2E09E7c67A5803D08CF312A407B1d9f223f4": {
   "chainId": 73927,
@@ -178,16 +148,6 @@
   "name": "Bitcoin SV",
   "stable": false,
   "symbol": "BSV"
- },
- "0x81995729Ead9Db862e386a5AE4906b5E2f68B4A2": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/IVNDfZnoc7khjQJ2ldlzGJDJVSBD_hazCloDu5GKEd_nrIjfxvTUuI7hOYEYZElTyhDPRExty3fKm8ZSptkhtUpa9E4CbHGYccVQ=s128",
-  "mixinAssetId": "8e8d677c-e9f1-3201-b1b3-4e46193df4f1",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Tether Gold",
-  "stable": false,
-  "symbol": "XAUt"
  },
  "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,

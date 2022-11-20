@@ -169,6 +169,16 @@
   "stable": false,
   "symbol": "IQ"
  },
+ "0x910Fb1751B946C7D691905349eC5dD250EFBF40a": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/0sQY63dDMkWTURkJVjowWY6Le4ICjAFuu3ANVyZA4uI3UdkbuOT5fjJUT82ArNYmZvVcxDXyNjxoOv0TAYbQTNKS=s128",
+  "mixinAssetId": "965e5c6e-434c-3fa9-b780-c50f43cd955c",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Chui Niu Bi",
+  "stable": false,
+  "symbol": "CNB"
+ },
  "0x9bf5E97cfF222A4358B1a375C065d16851fAe485": {
   "chainId": 73927,
   "decimals": 8,

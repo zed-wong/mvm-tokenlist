@@ -69,19 +69,19 @@
   "name": "Ether",
   "symbol": "ETH"
  },
+ "0x1Eed5e5d1599b529Ca61cd51F1d6aa2da55533A6": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/r5i6ggKtzBPiKoFxTt0ICcwgW8LnP-UaY_jpz3iFH-nrL0UtRxftOEt3cfgdlbFt33xvPd2nfXDEDIQ3HICicyz-qUSvZ2RbgQXh7g=s128",
+  "name": "4swap LP Token RUM-USDT",
+  "symbol": "sRUM-USDT"
+ },
  "0x27AD0c8e919bc6163Fdf564DE6Bbd9F2fe9cD1f0": {
   "chainId": 73927,
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/dLK5T9I4YFA094o6nn-qZ_TWLUtIrL0xtjxOyURaLoPcl94m0JKQhXQiOrC775LS9d8apDfLXVfbpDzGmWDf0CWJ=s128",
   "name": "Litecoin",
   "symbol": "LTC"
- },
- "0x29d5981929cBAf16D876320148B59d6bA452CAc8": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/jBhzwzcv2wZryypM3Th6tKVG76CYmQ8aawCnBFmyIRBrS4DispKl0SWSb-f4-HBto8Pr7zoqH7DItxbyp_Tl0mj6=s128",
-  "name": "Dai Stablecoin",
-  "symbol": "DAI"
  },
  "0x2Da4EF85E73Ca804F37595997CC491C820023aB8": {
   "chainId": 73927,
@@ -139,13 +139,6 @@
   "name": "Quorum Token",
   "symbol": "RUM"
  },
- "0x75125ACe34FD19d417A0A0BF803290028b9207Ea": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/1iUl5doLjMSv-ElcVCI4YgD1uIayDbZcQP0WjFEajoY1-qQZmVEl5GgUCtsp8CP0aj96a5Rwi-weQ5YA64lyQzU=s128",
-  "name": "Bitcoin SV",
-  "symbol": "BSV"
- },
  "0x76a6C3D0F25308F78ccB5e0342A32A9B9A4D0eb2": {
   "chainId": 73927,
   "decimals": 8,
@@ -180,6 +173,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/VvNrYJDwMh4HbKmnSQrzFvJbNd3pRtP1N-4cXFi09BluI2BMUAmxHsoXXXRO7y4q9cqs5qAXz-XondTANQgklzKu=s128",
   "name": "Handshake",
   "symbol": "HNS"
+ },
+ "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/tFruraMEXBLPCAkcS8oJIEz_aO9Dm5Z7DIY53zez-eJPP7L_MtoEAIHC1xaR2HaAEC7vS4fF7Kc8zX2n9qNI2PvnFeSo1FLZxK8o=s128",
+  "name": "JPY Coin",
+  "symbol": "JPYC"
  },
  "0xBb632546bE5Bdfff7300326689C4b841A97b6354": {
   "chainId": 73927,

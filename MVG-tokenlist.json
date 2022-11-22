@@ -69,16 +69,6 @@
   "stable": false,
   "symbol": "LTC"
  },
- "0x29d5981929cBAf16D876320148B59d6bA452CAc8": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/jBhzwzcv2wZryypM3Th6tKVG76CYmQ8aawCnBFmyIRBrS4DispKl0SWSb-f4-HBto8Pr7zoqH7DItxbyp_Tl0mj6=s128",
-  "mixinAssetId": "8549b4ad-917c-3461-a646-481adc5d7f7f",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Dai Stablecoin",
-  "stable": true,
-  "symbol": "DAI"
- },
  "0x39028Df0a20426a0d724Ab1504A9a862FA40608a": {
   "chainId": 73927,
   "decimals": 8,
@@ -139,16 +129,6 @@
   "stable": false,
   "symbol": "RUM"
  },
- "0x75125ACe34FD19d417A0A0BF803290028b9207Ea": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/1iUl5doLjMSv-ElcVCI4YgD1uIayDbZcQP0WjFEajoY1-qQZmVEl5GgUCtsp8CP0aj96a5Rwi-weQ5YA64lyQzU=s128",
-  "mixinAssetId": "574388fd-b93f-4034-a682-01c2bc095d17",
-  "mixinChainId": "574388fd-b93f-4034-a682-01c2bc095d17",
-  "name": "Bitcoin SV",
-  "stable": false,
-  "symbol": "BSV"
- },
  "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,
   "decimals": 8,
@@ -188,6 +168,16 @@
   "name": "Handshake",
   "stable": false,
   "symbol": "HNS"
+ },
+ "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/tFruraMEXBLPCAkcS8oJIEz_aO9Dm5Z7DIY53zez-eJPP7L_MtoEAIHC1xaR2HaAEC7vS4fF7Kc8zX2n9qNI2PvnFeSo1FLZxK8o=s128",
+  "mixinAssetId": "3e3152d4-6eee-36b3-9685-e8ba54db4a22",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "JPY Coin",
+  "stable": false,
+  "symbol": "JPYC"
  },
  "0xBb632546bE5Bdfff7300326689C4b841A97b6354": {
   "chainId": 73927,

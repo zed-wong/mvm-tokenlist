@@ -89,6 +89,16 @@
   "stable": false,
   "symbol": "DOGE"
  },
+ "0x4d3730F61c0D86374AEB573E60e689B3c28BA907": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/MDStWtCYDjGvGeEZp70xJduXK2cAEkQD9HkY-qi7m7yM4OOjjQqr3dVDcmvo55QBz96FqgygDj4aAz7leP5fISk=s128",
+  "mixinAssetId": "882eb041-64ea-465f-a4da-817bd3020f52",
+  "mixinChainId": "882eb041-64ea-465f-a4da-817bd3020f52",
+  "name": "Arweave",
+  "stable": false,
+  "symbol": "AR"
+ },
  "0x59e0f2E9254dB4D662eF36a02118eC5DBd9f8dfb": {
   "chainId": 73927,
   "decimals": 8,

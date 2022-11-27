@@ -132,6 +132,13 @@
   "name": "Solana",
   "symbol": "SOL"
  },
+ "0x5f7aD99252e01D569f552472Fa5f8130390b6B5b": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/33Z4MD2lIpwWyY1yG-DiaQ6busRfTDuCnxyNWWfoZfkyQg9Ilu7PJbs5oS3A-QEfebHbsARcgY546UqKiypepJoCxSlClAz9rUo=s128",
+  "name": "Pando Rings pUSD",
+  "symbol": "rUSD"
+ },
  "0x6CAE838361447259Cdb060B39B3EB0416a800CbE": {
   "chainId": 73927,
   "decimals": 8,
@@ -180,13 +187,6 @@
   "logoURI": "https://mixin-images.zeromesh.net/VvNrYJDwMh4HbKmnSQrzFvJbNd3pRtP1N-4cXFi09BluI2BMUAmxHsoXXXRO7y4q9cqs5qAXz-XondTANQgklzKu=s128",
   "name": "Handshake",
   "symbol": "HNS"
- },
- "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/tFruraMEXBLPCAkcS8oJIEz_aO9Dm5Z7DIY53zez-eJPP7L_MtoEAIHC1xaR2HaAEC7vS4fF7Kc8zX2n9qNI2PvnFeSo1FLZxK8o=s128",
-  "name": "JPY Coin",
-  "symbol": "JPYC"
  },
  "0xBb632546bE5Bdfff7300326689C4b841A97b6354": {
   "chainId": 73927,

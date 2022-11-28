@@ -181,6 +181,13 @@
   "name": "IQ",
   "symbol": "IQ"
  },
+ "0x8Cb6c1487f18f645e4Be593F6340135d0752BF43": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/SyX2tH2mBbSc45IfkOysbbd8WtPEjla5R3xT9ym0tbKv_vAyzl_Jd5qEYsOhKyuFRv09w3uB4Vzs2XJuJzZeO7e_=s128",
+  "name": "Ripple",
+  "symbol": "XRP"
+ },
  "0x910Fb1751B946C7D691905349eC5dD250EFBF40a": {
   "chainId": 73927,
   "decimals": 8,

@@ -18,7 +18,7 @@ const (
 )
 
 var (
-	NAMES = []string{"MVG-tokenlist.json", "mvm-tokenlist.json"}
+	NAMES = []string{"MVG-tokenlist.json", "mvm-tokenlist.json", "symbol-address-list.json"}
 	STABLE_LIST = []string{"USDT", "USDC", "pUSD", "DAI"}
 	LP_LIST = []string{"LP Token"}
 	RINGS_LIST = []string{"Pando Rings"}
@@ -129,6 +129,10 @@ func MVGTokenlist(name string) {
 	}
 	writeFile(name, o.StringIndent("", " "))
 	fmt.Println("Token info saved in", name)
+}
+
+func SymbolAddressList(name string) {
+	// WIP
 }
 
 func main() {

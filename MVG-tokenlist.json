@@ -69,6 +69,16 @@
   "stable": false,
   "symbol": "LTC"
  },
+ "0x2d274D49ED6089B0E7F6a422D237B49b539Aeae4": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/sdlLs6NIN7Qd_fM3z4k-s4GtamiHo4pafLve7P7hnHaLEPs2ld0FSscEzqjdytGY2q8e-AyfCNVfqXbXYYqb8cwUf-X3oI2jRTZN=s128",
+  "mixinAssetId": "05c5ac01-31f9-4a69-aa8a-ab796de1d041",
+  "mixinChainId": "05c5ac01-31f9-4a69-aa8a-ab796de1d041",
+  "name": "Monero",
+  "stable": false,
+  "symbol": "XMR"
+ },
  "0x39028Df0a20426a0d724Ab1504A9a862FA40608a": {
   "chainId": 73927,
   "decimals": 8,

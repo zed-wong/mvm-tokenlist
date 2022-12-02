@@ -41,6 +41,13 @@
   "name": "Pando Rings BTC",
   "symbol": "rBTC"
  },
+ "0x0cc37ae93e48C9F3C1de24EEBA649794588618bA": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/9l4ASVC8GXhkDGQkO4qdvd4IlGGfFqxagRFhVhiPrmz9_xxqHiO2ie-uuBy_ocLaZlbtO4XF6BGJS6eOd1Vtj4-ikxO4IvO0fdqW=s128",
+  "name": "Rally",
+  "symbol": "RLY"
+ },
  "0x0e42Ae5649B3a67842AF0F3fC21d09d9b850A694": {
   "chainId": 73927,
   "decimals": 8,
@@ -83,6 +90,13 @@
   "name": "Litecoin",
   "symbol": "LTC"
  },
+ "0x29d5981929cBAf16D876320148B59d6bA452CAc8": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/jBhzwzcv2wZryypM3Th6tKVG76CYmQ8aawCnBFmyIRBrS4DispKl0SWSb-f4-HBto8Pr7zoqH7DItxbyp_Tl0mj6=s128",
+  "name": "Dai Stablecoin",
+  "symbol": "DAI"
+ },
  "0x2Da4EF85E73Ca804F37595997CC491C820023aB8": {
   "chainId": 73927,
   "decimals": 8,
@@ -97,12 +111,33 @@
   "name": "Monero",
   "symbol": "XMR"
  },
+ "0x2e0D1cc6c800188b9c93C559403Ea54Bc5d5ff98": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/JSxN4FxhH3LNDowo22bEV3fGMdrGmKrYzGyNqGbYe72GFEitLVFfwmxrjEE8ZDzqAc14LWUcuHtHiO8l7ODyExmnLwM3aPdx8D0Z=s128",
+  "name": "Akita Inu",
+  "symbol": "AKITA"
+ },
  "0x39028Df0a20426a0d724Ab1504A9a862FA40608a": {
   "chainId": 73927,
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/CtuFhqtCKJliKCWw9-1EemlPMOnUs1b_Nh0XUjzHlVt3OmLi_vwPu01xbYC8Js9-2APTK8s4aAMree7LC8gH6FQ=s128",
   "name": "BigONE Token",
   "symbol": "ONE"
+ },
+ "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
+  "name": "Meta AED",
+  "symbol": "mAED"
+ },
+ "0x4268558713D3b168284F40964FCdd2963a04dEA8": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/JfI5BsNKPX4lc96wd-Lh3G9C4ik2QZlthqufTSEFBHhbyFo6sTDfJ1Fu1iXZhEddH_5SKy96hxOdnz2GPefGzbIbBIO2K8BuY7-MLA=s128",
+  "name": "4swap LP Token MOB-ETH",
+  "symbol": "sMOB-ETH"
  },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
@@ -131,6 +166,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/ndNBEpObYs7450U08oAOMnSEPzN66SL8Mh-f2pPWBDeWaKbXTPUIdrZph7yj8Z93Rl8uZ16m7Qjz-E-9JFKSsJ-F=s128",
   "name": "Tether USD",
   "symbol": "USDT"
+ },
+ "0x5Ab395E7f97Dd853685475C9Be088f6Dfb362FDb": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/tzcvMLmwDHX5TxbE_yQK9DpHERnWOZ0Rn8j5XgltqFoYfS9Y8vMTje95mPr4SfSSq9Tn210VNSIgJkdEcKXyoLEBgVdzT15vLjf9=s128",
+  "name": "Euro Tether",
+  "symbol": "EURT"
  },
  "0x5bAB2E09E7c67A5803D08CF312A407B1d9f223f4": {
   "chainId": 73927,
@@ -167,6 +209,13 @@
   "name": "Quorum Token",
   "symbol": "RUM"
  },
+ "0x75125ACe34FD19d417A0A0BF803290028b9207Ea": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/1iUl5doLjMSv-ElcVCI4YgD1uIayDbZcQP0WjFEajoY1-qQZmVEl5GgUCtsp8CP0aj96a5Rwi-weQ5YA64lyQzU=s128",
+  "name": "Bitcoin SV",
+  "symbol": "BSV"
+ },
  "0x76a6C3D0F25308F78ccB5e0342A32A9B9A4D0eb2": {
   "chainId": 73927,
   "decimals": 8,
@@ -174,12 +223,26 @@
   "name": "4swap LP Token USDT-BTC",
   "symbol": "sUSDT-BTC"
  },
+ "0x81995729Ead9Db862e386a5AE4906b5E2f68B4A2": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/IVNDfZnoc7khjQJ2ldlzGJDJVSBD_hazCloDu5GKEd_nrIjfxvTUuI7hOYEYZElTyhDPRExty3fKm8ZSptkhtUpa9E4CbHGYccVQ=s128",
+  "name": "Tether Gold",
+  "symbol": "XAUt"
+ },
  "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/cavDRk4GVSA9oezAmp3mbEieoi8rqkPBVNB29y13sQuYO2JClWGLNvrf5_GJmltNY_6aviqIcmJV3-DmFFGT74U=s128",
   "name": "HuobiToken",
   "symbol": "HT"
+ },
+ "0x850a826ef4CF899109a0dd4684E23262fFC7AB28": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/oDZ5OLP0szYvHbC2XjolqKfYyY0WYP2YcvwQyOPfdYXQZFYIbU66BnhAM3GKlhJSIToLkxzS6tFVeYiQH-00DuPdzdlh7W7vtfP-=s128",
+  "name": "4swap LP Token DOGE-CNB",
+  "symbol": "sDOGE-CNB"
  },
  "0x8A179D75a5F26038b8485BEE9A2dFb523F114A4f": {
   "chainId": 73927,
@@ -201,6 +264,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/0sQY63dDMkWTURkJVjowWY6Le4ICjAFuu3ANVyZA4uI3UdkbuOT5fjJUT82ArNYmZvVcxDXyNjxoOv0TAYbQTNKS=s128",
   "name": "Chui Niu Bi",
   "symbol": "CNB"
+ },
+ "0x91a1a6f222Ad1efAe6700290D864672dde5AE1AA": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/Osli-t2qBvp4XUma-b-g1Er99UtRg27K8CnKKo9MCVrE84a8TfSYwoey8sTOz5y9auk-zQ6-ypPyPEIKEOXLVkO4=s128",
+  "name": "yearn.finance",
+  "symbol": "YFI"
  },
  "0x9bf5E97cfF222A4358B1a375C065d16851fAe485": {
   "chainId": 73927,
@@ -236,6 +306,20 @@
   "logoURI": "https://mixin-images.zeromesh.net/Tb-MIR6XkwgqoO7K3KoQVgKw7Fq8Orlw6K7slteBDe_yVo4O52j1ena6YllTXCZbY5e0SCzl1ZHZH3-qAbh9tDUuq30Lu4RK_6l2=s128",
   "name": "4swap LP Token ETH-pUSD",
   "symbol": "sETH-pUSD"
+ },
+ "0xD5465e77ca9ead248936601d643FFE375E9C1F90": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/t-HH_7zAE5Y7OG9WgC1muIeFWJee4WypzbdJ5FjakEIivRYnSz89CBR4twXH-K_wFFodURRhYulVY-PrOO35ZoQ=s128",
+  "name": "Cosmos",
+  "symbol": "ATOM"
+ },
+ "0xDdC4621356B85e23f847F245FA26C0f20afCF123": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/nOkXsw1kQIO_yPug8Wgwmgb79Vtmqzp-nmSXgz5PrntZOVdrS88DVpUlGF4xwJHa0OghOKnmpToIKvnF7RF_PwjyHFJr3E8rJCaI=s128",
+  "name": "Electronic Dollars",
+  "symbol": "eUSD"
  },
  "0xE3cb8a2b08A760d4FC04d9C1f609d1c82fB75f60": {
   "chainId": 73927,
@@ -278,6 +362,20 @@
   "logoURI": "https://mixin-images.zeromesh.net/ndNBEpObYs7450U08oAOMnSEPzN66SL8Mh-f2pPWBDeWaKbXTPUIdrZph7yj8Z93Rl8uZ16m7Qjz-E-9JFKSsJ-F=s128",
   "name": "Tether USD",
   "symbol": "USDT"
+ },
+ "0xb272EdBF33D74F175B114471D0d0629cEC534879": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/cT6iwy8ykm5SNYj-bgBKsqHOGALUJjifG-pGX0tFdB_lwUMsyZRUOtTlkIA7ktRJfMLEMY4g2UYxhTRlPjVZy52fKgLysRDYvwBz=s128",
+  "name": "FTT",
+  "symbol": "FTX Token"
+ },
+ "0xc1d220E70A38196931877b1019c1f7038c7c61Aa": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/InpT6RTK-tFLV7oUbCuG0J17vCNbRHW8iG_ZzPAkvCTZrtMaTXUnJ7VsYEDBlPFxddu9wvb5ctzmrawXcFsCPSo=s128",
+  "name": "Civic",
+  "symbol": "CVC"
  },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {
   "chainId": 73927,

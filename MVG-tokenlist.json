@@ -19,6 +19,16 @@
   "stable": true,
   "symbol": "USDC"
  },
+ "0x0cc37ae93e48C9F3C1de24EEBA649794588618bA": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/9l4ASVC8GXhkDGQkO4qdvd4IlGGfFqxagRFhVhiPrmz9_xxqHiO2ie-uuBy_ocLaZlbtO4XF6BGJS6eOd1Vtj4-ikxO4IvO0fdqW=s128",
+  "mixinAssetId": "bb4c9a0c-245b-3bd2-a3f4-a5eb73c90c00",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Rally",
+  "stable": false,
+  "symbol": "RLY"
+ },
  "0x0e42Ae5649B3a67842AF0F3fC21d09d9b850A694": {
   "chainId": 73927,
   "decimals": 8,
@@ -69,6 +79,16 @@
   "stable": false,
   "symbol": "LTC"
  },
+ "0x29d5981929cBAf16D876320148B59d6bA452CAc8": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/jBhzwzcv2wZryypM3Th6tKVG76CYmQ8aawCnBFmyIRBrS4DispKl0SWSb-f4-HBto8Pr7zoqH7DItxbyp_Tl0mj6=s128",
+  "mixinAssetId": "8549b4ad-917c-3461-a646-481adc5d7f7f",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Dai Stablecoin",
+  "stable": true,
+  "symbol": "DAI"
+ },
  "0x2d274D49ED6089B0E7F6a422D237B49b539Aeae4": {
   "chainId": 73927,
   "decimals": 8,
@@ -79,6 +99,16 @@
   "stable": false,
   "symbol": "XMR"
  },
+ "0x2e0D1cc6c800188b9c93C559403Ea54Bc5d5ff98": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/JSxN4FxhH3LNDowo22bEV3fGMdrGmKrYzGyNqGbYe72GFEitLVFfwmxrjEE8ZDzqAc14LWUcuHtHiO8l7ODyExmnLwM3aPdx8D0Z=s128",
+  "mixinAssetId": "aa189c4c-99ca-39eb-8d96-71a8f6f7218a",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Akita Inu",
+  "stable": false,
+  "symbol": "AKITA"
+ },
  "0x39028Df0a20426a0d724Ab1504A9a862FA40608a": {
   "chainId": 73927,
   "decimals": 8,
@@ -88,6 +118,16 @@
   "name": "BigONE Token",
   "stable": false,
   "symbol": "ONE"
+ },
+ "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
+  "mixinAssetId": "b5289c48-ec3a-3cdb-b2c4-0913d1812cd5",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Meta AED",
+  "stable": false,
+  "symbol": "mAED"
  },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
@@ -129,6 +169,16 @@
   "stable": true,
   "symbol": "USDT"
  },
+ "0x5Ab395E7f97Dd853685475C9Be088f6Dfb362FDb": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/tzcvMLmwDHX5TxbE_yQK9DpHERnWOZ0Rn8j5XgltqFoYfS9Y8vMTje95mPr4SfSSq9Tn210VNSIgJkdEcKXyoLEBgVdzT15vLjf9=s128",
+  "mixinAssetId": "2f5bef0e-d41a-3cf3-b6fa-b8dd0d8a3327",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Euro Tether",
+  "stable": false,
+  "symbol": "EURT"
+ },
  "0x5bAB2E09E7c67A5803D08CF312A407B1d9f223f4": {
   "chainId": 73927,
   "decimals": 8,
@@ -158,6 +208,26 @@
   "name": "Quorum Token",
   "stable": false,
   "symbol": "RUM"
+ },
+ "0x75125ACe34FD19d417A0A0BF803290028b9207Ea": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/1iUl5doLjMSv-ElcVCI4YgD1uIayDbZcQP0WjFEajoY1-qQZmVEl5GgUCtsp8CP0aj96a5Rwi-weQ5YA64lyQzU=s128",
+  "mixinAssetId": "574388fd-b93f-4034-a682-01c2bc095d17",
+  "mixinChainId": "574388fd-b93f-4034-a682-01c2bc095d17",
+  "name": "Bitcoin SV",
+  "stable": false,
+  "symbol": "BSV"
+ },
+ "0x81995729Ead9Db862e386a5AE4906b5E2f68B4A2": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/IVNDfZnoc7khjQJ2ldlzGJDJVSBD_hazCloDu5GKEd_nrIjfxvTUuI7hOYEYZElTyhDPRExty3fKm8ZSptkhtUpa9E4CbHGYccVQ=s128",
+  "mixinAssetId": "8e8d677c-e9f1-3201-b1b3-4e46193df4f1",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Tether Gold",
+  "stable": false,
+  "symbol": "XAUt"
  },
  "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,
@@ -199,6 +269,16 @@
   "stable": false,
   "symbol": "CNB"
  },
+ "0x91a1a6f222Ad1efAe6700290D864672dde5AE1AA": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/Osli-t2qBvp4XUma-b-g1Er99UtRg27K8CnKKo9MCVrE84a8TfSYwoey8sTOz5y9auk-zQ6-ypPyPEIKEOXLVkO4=s128",
+  "mixinAssetId": "0119f16d-f44c-3c12-9d59-044f5303c028",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "yearn.finance",
+  "stable": false,
+  "symbol": "YFI"
+ },
  "0x9bf5E97cfF222A4358B1a375C065d16851fAe485": {
   "chainId": 73927,
   "decimals": 8,
@@ -238,6 +318,26 @@
   "name": "BOX Token",
   "stable": false,
   "symbol": "BOX"
+ },
+ "0xD5465e77ca9ead248936601d643FFE375E9C1F90": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/t-HH_7zAE5Y7OG9WgC1muIeFWJee4WypzbdJ5FjakEIivRYnSz89CBR4twXH-K_wFFodURRhYulVY-PrOO35ZoQ=s128",
+  "mixinAssetId": "7397e9f1-4e42-4dc8-8a3b-171daaadd436",
+  "mixinChainId": "7397e9f1-4e42-4dc8-8a3b-171daaadd436",
+  "name": "Cosmos",
+  "stable": false,
+  "symbol": "ATOM"
+ },
+ "0xDdC4621356B85e23f847F245FA26C0f20afCF123": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/nOkXsw1kQIO_yPug8Wgwmgb79Vtmqzp-nmSXgz5PrntZOVdrS88DVpUlGF4xwJHa0OghOKnmpToIKvnF7RF_PwjyHFJr3E8rJCaI=s128",
+  "mixinAssetId": "659c407a-0489-30bf-9e6f-84ef25c971c9",
+  "mixinChainId": "eea900a8-b327-488c-8d8d-1428702fe240",
+  "name": "Electronic Dollars",
+  "stable": false,
+  "symbol": "eUSD"
  },
  "0xE3cb8a2b08A760d4FC04d9C1f609d1c82fB75f60": {
   "chainId": 73927,
@@ -288,6 +388,26 @@
   "name": "Tether USD",
   "stable": true,
   "symbol": "USDT"
+ },
+ "0xb272EdBF33D74F175B114471D0d0629cEC534879": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/cT6iwy8ykm5SNYj-bgBKsqHOGALUJjifG-pGX0tFdB_lwUMsyZRUOtTlkIA7ktRJfMLEMY4g2UYxhTRlPjVZy52fKgLysRDYvwBz=s128",
+  "mixinAssetId": "0c79a53f-9caf-3e7c-a3ce-1edcba33301f",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "FTT",
+  "stable": false,
+  "symbol": "FTX Token"
+ },
+ "0xc1d220E70A38196931877b1019c1f7038c7c61Aa": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/InpT6RTK-tFLV7oUbCuG0J17vCNbRHW8iG_ZzPAkvCTZrtMaTXUnJ7VsYEDBlPFxddu9wvb5ctzmrawXcFsCPSo=s128",
+  "mixinAssetId": "16fefe30-e19d-3229-a432-5d0fdb0abd4f",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Civic",
+  "stable": false,
+  "symbol": "CVC"
  },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {
   "chainId": 73927,

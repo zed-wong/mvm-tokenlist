@@ -4,7 +4,7 @@ MVM token list in [defillama format](https://defillama-datasets.s3.eu-central-1.
 
 See [mvm-tokenlist.json](mvm-tokenlist.json) for the list of all tokens.
 
-See [MVG-tokenlist.json](MVG-tokenlist.json) for the list without 4swap LP tokens, Pando Rings rTokens and including Mixin AssetID, Mixin ChainID.
+See [MVG-tokenlist.json](MVG-tokenlist.json) for the list without 4swap LP tokens, Pando Rings rTokens and each assets includes Mixin AssetID, Mixin ChainID.
 
 [Uniswap token list format](https://github.com/Uniswap/token-lists) is WIP.
 

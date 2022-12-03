@@ -1,6 +1,7 @@
 {
  "0x034A771797a1C8694Bc33E1AA89f51d1f828e5A4": {
   "chainId": 73927,
+  "contract": "0x034A771797a1C8694Bc33E1AA89f51d1f828e5A4",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/UasWtBZO0TZyLTLCFQjvE_UYekjC7eHCuT_9_52ZpzmCC-X-NPioVegng7Hfx0XmIUavZgz5UL-HIgPCBECc-Ws=s128",
   "mixinAssetId": "c94ac88f-4671-3976-b60a-09064f1811e8",
@@ -11,6 +12,7 @@
  },
  "0x07DeF5AD4e59Ff1f64694fBA1BA4E513A71E4a83": {
   "chainId": 73927,
+  "contract": "0x07DeF5AD4e59Ff1f64694fBA1BA4E513A71E4a83",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/w3Lb-pMrgcmmrzamf7FG_0c6Dkh3w_NRbysqzpuacwdVhMYSOtnX2zedWqiSG7JuZ3jd4xfhAJduQXY1rPidmywn=s128",
   "mixinAssetId": "9b180ab6-6abe-3dc0-a13f-04169eb34bfa",
@@ -21,6 +23,7 @@
  },
  "0x0cc37ae93e48C9F3C1de24EEBA649794588618bA": {
   "chainId": 73927,
+  "contract": "0x0cc37ae93e48C9F3C1de24EEBA649794588618bA",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/9l4ASVC8GXhkDGQkO4qdvd4IlGGfFqxagRFhVhiPrmz9_xxqHiO2ie-uuBy_ocLaZlbtO4XF6BGJS6eOd1Vtj4-ikxO4IvO0fdqW=s128",
   "mixinAssetId": "bb4c9a0c-245b-3bd2-a3f4-a5eb73c90c00",
@@ -31,6 +34,7 @@
  },
  "0x0e42Ae5649B3a67842AF0F3fC21d09d9b850A694": {
   "chainId": 73927,
+  "contract": "0x0e42Ae5649B3a67842AF0F3fC21d09d9b850A694",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/HvYGJsV5TGeZ-X9Ek3FEQohQZ3fE9LBEBGcOcn4c4BNHovP4fW4YB97Dg5LcXoQ1hUjMEgjbl1DPlKg1TW7kK6XP=s128",
   "mixinAssetId": "c6d0c728-2624-429b-8e0d-d9d19b6592fa",
@@ -41,6 +45,7 @@
  },
  "0x11ed3D89cF27B7A4dC96Cb52Cd7e5Dd94Ca18D64": {
   "chainId": 73927,
+  "contract": "0x11ed3D89cF27B7A4dC96Cb52Cd7e5Dd94Ca18D64",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/AeLhCJ6iDloyDS50ce8OgfK-0y5ExO-1rSeBSSRxMDQNuznc-rT3Hc07DiqD44G34QQYQwmctvIxpEbLhB7KDsQ7=s128",
   "mixinAssetId": "54c61a72-b982-4034-a556-0d99e3c21e39",
@@ -51,6 +56,7 @@
  },
  "0x12959642c33d4A3c4d1b4d68c88b5f50Ed223305": {
   "chainId": 73927,
+  "contract": "0x12959642c33d4A3c4d1b4d68c88b5f50Ed223305",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/fgSEd6CY07BiZP76--7JA9P-rKIWRoXD8Eis8RUL6mP85_QPsbMoyJtWJ6MjE9jWFEjabNF0AKb8i2QOfdbCS6BJMntySps-8GfvJQ=s128",
   "mixinAssetId": "dcde18b9-f015-326f-b8b1-5b820a060e44",
@@ -61,6 +67,7 @@
  },
  "0x181251D3A501961d4Af2AF46E33C71A5D808c25B": {
   "chainId": 73927,
+  "contract": "0x181251D3A501961d4Af2AF46E33C71A5D808c25B",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
   "mixinAssetId": "43d61dcd-e413-450d-80b8-101d5e903357",
@@ -71,6 +78,7 @@
  },
  "0x27AD0c8e919bc6163Fdf564DE6Bbd9F2fe9cD1f0": {
   "chainId": 73927,
+  "contract": "0x27AD0c8e919bc6163Fdf564DE6Bbd9F2fe9cD1f0",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/dLK5T9I4YFA094o6nn-qZ_TWLUtIrL0xtjxOyURaLoPcl94m0JKQhXQiOrC775LS9d8apDfLXVfbpDzGmWDf0CWJ=s128",
   "mixinAssetId": "76c802a2-7c88-447f-a93e-c29c9e5dd9c8",
@@ -81,6 +89,7 @@
  },
  "0x29d5981929cBAf16D876320148B59d6bA452CAc8": {
   "chainId": 73927,
+  "contract": "0x29d5981929cBAf16D876320148B59d6bA452CAc8",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/jBhzwzcv2wZryypM3Th6tKVG76CYmQ8aawCnBFmyIRBrS4DispKl0SWSb-f4-HBto8Pr7zoqH7DItxbyp_Tl0mj6=s128",
   "mixinAssetId": "8549b4ad-917c-3461-a646-481adc5d7f7f",
@@ -91,6 +100,7 @@
  },
  "0x2d274D49ED6089B0E7F6a422D237B49b539Aeae4": {
   "chainId": 73927,
+  "contract": "0x2d274D49ED6089B0E7F6a422D237B49b539Aeae4",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/sdlLs6NIN7Qd_fM3z4k-s4GtamiHo4pafLve7P7hnHaLEPs2ld0FSscEzqjdytGY2q8e-AyfCNVfqXbXYYqb8cwUf-X3oI2jRTZN=s128",
   "mixinAssetId": "05c5ac01-31f9-4a69-aa8a-ab796de1d041",
@@ -101,6 +111,7 @@
  },
  "0x2e0D1cc6c800188b9c93C559403Ea54Bc5d5ff98": {
   "chainId": 73927,
+  "contract": "0x2e0D1cc6c800188b9c93C559403Ea54Bc5d5ff98",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/JSxN4FxhH3LNDowo22bEV3fGMdrGmKrYzGyNqGbYe72GFEitLVFfwmxrjEE8ZDzqAc14LWUcuHtHiO8l7ODyExmnLwM3aPdx8D0Z=s128",
   "mixinAssetId": "aa189c4c-99ca-39eb-8d96-71a8f6f7218a",
@@ -111,6 +122,7 @@
  },
  "0x39028Df0a20426a0d724Ab1504A9a862FA40608a": {
   "chainId": 73927,
+  "contract": "0x39028Df0a20426a0d724Ab1504A9a862FA40608a",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/CtuFhqtCKJliKCWw9-1EemlPMOnUs1b_Nh0XUjzHlVt3OmLi_vwPu01xbYC8Js9-2APTK8s4aAMree7LC8gH6FQ=s128",
   "mixinAssetId": "2566bf58-c4de-3479-8c55-c137bb7fe2ae",
@@ -121,6 +133,7 @@
  },
  "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
   "chainId": 73927,
+  "contract": "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/8rMphHGuCQljXYyAWL8TLX-01eoqUy3WJgf539UsM88P69E7rT8FIMClaHkAgvo-7flQRIudlJE9KzbA9WBsPZFq6T_9BvyL93o=s128",
   "mixinAssetId": "b5289c48-ec3a-3cdb-b2c4-0913d1812cd5",
@@ -131,6 +144,7 @@
  },
  "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D": {
   "chainId": 73927,
+  "contract": "0x4C29a2Ae22453CbFab915083eA9bCbFF424CeA4D",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/gtz8ocdxuC4N2rgEDKGc4Q6sZzWWCIGDWYBT6mHmtRubLqpE-xafvlABX6cvZ74VXL4HjyIocnX-H_Vxrz3En9tMcIKED0c-2MhH=s128",
   "mixinAssetId": "6770a1e5-6086-44d5-b60f-545f9d9e8ffd",
@@ -141,6 +155,7 @@
  },
  "0x4d3730F61c0D86374AEB573E60e689B3c28BA907": {
   "chainId": 73927,
+  "contract": "0x4d3730F61c0D86374AEB573E60e689B3c28BA907",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/MDStWtCYDjGvGeEZp70xJduXK2cAEkQD9HkY-qi7m7yM4OOjjQqr3dVDcmvo55QBz96FqgygDj4aAz7leP5fISk=s128",
   "mixinAssetId": "882eb041-64ea-465f-a4da-817bd3020f52",
@@ -151,6 +166,7 @@
  },
  "0x59e0f2E9254dB4D662eF36a02118eC5DBd9f8dfb": {
   "chainId": 73927,
+  "contract": "0x59e0f2E9254dB4D662eF36a02118eC5DBd9f8dfb",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/ndNBEpObYs7450U08oAOMnSEPzN66SL8Mh-f2pPWBDeWaKbXTPUIdrZph7yj8Z93Rl8uZ16m7Qjz-E-9JFKSsJ-F=s128",
   "mixinAssetId": "4d8c508b-91c5-375b-92b0-ee702ed2dac5",
@@ -161,6 +177,7 @@
  },
  "0x5Ab395E7f97Dd853685475C9Be088f6Dfb362FDb": {
   "chainId": 73927,
+  "contract": "0x5Ab395E7f97Dd853685475C9Be088f6Dfb362FDb",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/tzcvMLmwDHX5TxbE_yQK9DpHERnWOZ0Rn8j5XgltqFoYfS9Y8vMTje95mPr4SfSSq9Tn210VNSIgJkdEcKXyoLEBgVdzT15vLjf9=s128",
   "mixinAssetId": "2f5bef0e-d41a-3cf3-b6fa-b8dd0d8a3327",
@@ -171,6 +188,7 @@
  },
  "0x5bAB2E09E7c67A5803D08CF312A407B1d9f223f4": {
   "chainId": 73927,
+  "contract": "0x5bAB2E09E7c67A5803D08CF312A407B1d9f223f4",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/HCjLu6VM0XA7ouRcZJGDTOzE7zoXaA8LgESw075VW5teZ27AGUgyGrc4jnzuK5LtgT5HJQDSNSOImnU3IcUsBLoF=s128",
   "mixinAssetId": "17f78d7c-ed96-40ff-980c-5dc62fecbc85",
@@ -181,6 +199,7 @@
  },
  "0x5dD39A30f3DeB4E7eCeAAA88DcB1F283b02426F5": {
   "chainId": 73927,
+  "contract": "0x5dD39A30f3DeB4E7eCeAAA88DcB1F283b02426F5",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/eTzm8_cWke8NqJ3zbQcx7RkvbcTytD_NgBpdwIAgKJRpOoo0S0AQ3IQ-YeBJgUKmpsMPUHcZFzfuWowv3801cF5HXfya5MQ9fTA9HQ=s128",
   "mixinAssetId": "64692c23-8971-4cf4-84a7-4dd1271dd887",
@@ -191,6 +210,7 @@
  },
  "0x6FC8966C21DCd8efF5743ADF0248a5277Fc83272": {
   "chainId": 73927,
+  "contract": "0x6FC8966C21DCd8efF5743ADF0248a5277Fc83272",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/e_y4q9JIdP1PZbwmwO_6v-fx7_ZyifODuYtHvLQDrkLNwH3pQTDVY0EHZA394gjZawwyt3vPC7NlMvyT2nEuPypeDioV_OMd6T8=s128",
   "mixinAssetId": "4f2ec12c-22f4-3a9e-b757-c84b6415ea8f",
@@ -201,6 +221,7 @@
  },
  "0x75125ACe34FD19d417A0A0BF803290028b9207Ea": {
   "chainId": 73927,
+  "contract": "0x75125ACe34FD19d417A0A0BF803290028b9207Ea",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/1iUl5doLjMSv-ElcVCI4YgD1uIayDbZcQP0WjFEajoY1-qQZmVEl5GgUCtsp8CP0aj96a5Rwi-weQ5YA64lyQzU=s128",
   "mixinAssetId": "574388fd-b93f-4034-a682-01c2bc095d17",
@@ -211,6 +232,7 @@
  },
  "0x81995729Ead9Db862e386a5AE4906b5E2f68B4A2": {
   "chainId": 73927,
+  "contract": "0x81995729Ead9Db862e386a5AE4906b5E2f68B4A2",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/IVNDfZnoc7khjQJ2ldlzGJDJVSBD_hazCloDu5GKEd_nrIjfxvTUuI7hOYEYZElTyhDPRExty3fKm8ZSptkhtUpa9E4CbHGYccVQ=s128",
   "mixinAssetId": "8e8d677c-e9f1-3201-b1b3-4e46193df4f1",
@@ -221,6 +243,7 @@
  },
  "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,
+  "contract": "0x848DA82e0C1774062AEa81d3497d09A764A92428",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/cavDRk4GVSA9oezAmp3mbEieoi8rqkPBVNB29y13sQuYO2JClWGLNvrf5_GJmltNY_6aviqIcmJV3-DmFFGT74U=s128",
   "mixinAssetId": "f1d987df-1835-3f03-aefd-5e3e4132d11e",
@@ -231,6 +254,7 @@
  },
  "0x8A179D75a5F26038b8485BEE9A2dFb523F114A4f": {
   "chainId": 73927,
+  "contract": "0x8A179D75a5F26038b8485BEE9A2dFb523F114A4f",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/NqYlmMQF2VtjwvJoLQ-zAO5-mE8nkFMQw2jSELwjmCm0l2qNwBKsgTRvXO473SBo0PjiPg6eff2wKakrUmhx8Mk=s128",
   "mixinAssetId": "336d5d97-329c-330d-8e62-2b7c9ba40ea0",
@@ -241,6 +265,7 @@
  },
  "0x8Cb6c1487f18f645e4Be593F6340135d0752BF43": {
   "chainId": 73927,
+  "contract": "0x8Cb6c1487f18f645e4Be593F6340135d0752BF43",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/SyX2tH2mBbSc45IfkOysbbd8WtPEjla5R3xT9ym0tbKv_vAyzl_Jd5qEYsOhKyuFRv09w3uB4Vzs2XJuJzZeO7e_=s128",
   "mixinAssetId": "23dfb5a5-5d7b-48b6-905f-3970e3176e27",
@@ -251,6 +276,7 @@
  },
  "0x910Fb1751B946C7D691905349eC5dD250EFBF40a": {
   "chainId": 73927,
+  "contract": "0x910Fb1751B946C7D691905349eC5dD250EFBF40a",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/0sQY63dDMkWTURkJVjowWY6Le4ICjAFuu3ANVyZA4uI3UdkbuOT5fjJUT82ArNYmZvVcxDXyNjxoOv0TAYbQTNKS=s128",
   "mixinAssetId": "965e5c6e-434c-3fa9-b780-c50f43cd955c",
@@ -261,6 +287,7 @@
  },
  "0x91a1a6f222Ad1efAe6700290D864672dde5AE1AA": {
   "chainId": 73927,
+  "contract": "0x91a1a6f222Ad1efAe6700290D864672dde5AE1AA",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/Osli-t2qBvp4XUma-b-g1Er99UtRg27K8CnKKo9MCVrE84a8TfSYwoey8sTOz5y9auk-zQ6-ypPyPEIKEOXLVkO4=s128",
   "mixinAssetId": "0119f16d-f44c-3c12-9d59-044f5303c028",
@@ -271,6 +298,7 @@
  },
  "0x9bf5E97cfF222A4358B1a375C065d16851fAe485": {
   "chainId": 73927,
+  "contract": "0x9bf5E97cfF222A4358B1a375C065d16851fAe485",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/VvNrYJDwMh4HbKmnSQrzFvJbNd3pRtP1N-4cXFi09BluI2BMUAmxHsoXXXRO7y4q9cqs5qAXz-XondTANQgklzKu=s128",
   "mixinAssetId": "13036886-6b83-4ced-8d44-9f69151587bf",
@@ -281,6 +309,7 @@
  },
  "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
   "chainId": 73927,
+  "contract": "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/tFruraMEXBLPCAkcS8oJIEz_aO9Dm5Z7DIY53zez-eJPP7L_MtoEAIHC1xaR2HaAEC7vS4fF7Kc8zX2n9qNI2PvnFeSo1FLZxK8o=s128",
   "mixinAssetId": "3e3152d4-6eee-36b3-9685-e8ba54db4a22",
@@ -291,6 +320,7 @@
  },
  "0xBb632546bE5Bdfff7300326689C4b841A97b6354": {
   "chainId": 73927,
+  "contract": "0xBb632546bE5Bdfff7300326689C4b841A97b6354",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/OXA2k7nPaexCjRa86QKrwyKEqsv7yFzfXC0b0BJh67eP530q1TNvSG3gIRjm3UvI8nlis-7_C2mq-ifNWpXFXN0t=s128",
   "mixinAssetId": "83c8bfca-78ee-3845-9e6c-e3d69e7b381c",
@@ -301,6 +331,7 @@
  },
  "0xBcbC18B37250aC7E9F983141046D56c0aB032d00": {
   "chainId": 73927,
+  "contract": "0xBcbC18B37250aC7E9F983141046D56c0aB032d00",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/ml7tg1ZGrQt6IJSvEusWFfthosOB98GWN7r4EkmgSP8tbJHxK7OWki9zfZFFDCDOJE0nlLBR6dc4nbUguXE3Bg4=s128",
   "mixinAssetId": "f5ef6b5d-cc5a-3d90-b2c0-a2fd386e7a3c",
@@ -311,6 +342,7 @@
  },
  "0xD5465e77ca9ead248936601d643FFE375E9C1F90": {
   "chainId": 73927,
+  "contract": "0xD5465e77ca9ead248936601d643FFE375E9C1F90",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/t-HH_7zAE5Y7OG9WgC1muIeFWJee4WypzbdJ5FjakEIivRYnSz89CBR4twXH-K_wFFodURRhYulVY-PrOO35ZoQ=s128",
   "mixinAssetId": "7397e9f1-4e42-4dc8-8a3b-171daaadd436",
@@ -321,6 +353,7 @@
  },
  "0xDdC4621356B85e23f847F245FA26C0f20afCF123": {
   "chainId": 73927,
+  "contract": "0xDdC4621356B85e23f847F245FA26C0f20afCF123",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/nOkXsw1kQIO_yPug8Wgwmgb79Vtmqzp-nmSXgz5PrntZOVdrS88DVpUlGF4xwJHa0OghOKnmpToIKvnF7RF_PwjyHFJr3E8rJCaI=s128",
   "mixinAssetId": "659c407a-0489-30bf-9e6f-84ef25c971c9",
@@ -331,6 +364,7 @@
  },
  "0xE3cb8a2b08A760d4FC04d9C1f609d1c82fB75f60": {
   "chainId": 73927,
+  "contract": "0xE3cb8a2b08A760d4FC04d9C1f609d1c82fB75f60",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/eckqDQi50ZUCoye5mR7y6BvlbXX6CBzkP89BfGNNH6TMNuyXYcCUd7knuIDpV_0W7nT1q3Oo9ooVnMDGjl8-oiENuA5UVREheUu2=s128",
   "mixinAssetId": "eea900a8-b327-488c-8d8d-1428702fe240",
@@ -341,6 +375,7 @@
  },
  "0xE968257b324264858c0704fcd260D6673D7fE5cF": {
   "chainId": 73927,
+  "contract": "0xE968257b324264858c0704fcd260D6673D7fE5cF",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/OTwqLjEwc6v0JutJc-1sYkh_juFOvVbFz26WvvwfLGdKq6ZtwAT-wKhX0k-5PsgOK_Pd9rCQjZfwMJmiNXCBzpHnjapBtkCqAVCTCg=s128",
   "mixinAssetId": "6cfe566e-4aad-470b-8c9a-2fd35b49c68d",
@@ -351,6 +386,7 @@
  },
  "0xF7418b9535363d23796711B4406AeF7155451839": {
   "chainId": 73927,
+  "contract": "0xF7418b9535363d23796711B4406AeF7155451839",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/Ekf9UzoHhRRfcDLchjfVrRPYZ_71jQt306WcvgwZWwEM2BIGlHcUm_sK3Nw_mjARPwIvNB9xAzAEWJyW86pVuarPu8O5YZ0WwqTo=s128",
   "mixinAssetId": "a31e847e-ca87-3162-b4d1-322bc552e831",
@@ -361,6 +397,7 @@
  },
  "0xa8090F6f19295321968B2f3BcDB44d20bB15742e": {
   "chainId": 73927,
+  "contract": "0xa8090F6f19295321968B2f3BcDB44d20bB15742e",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/cH4GWuPXbzeZl6OOunpn7BxE25n3v8URwnNszs0FpZqv3OTlxP1zpzKw89VKTpBwWL-Ned1R36mmy1C4GMuPX1rL-PjfEJ2zby9V=s128",
   "mixinAssetId": "31d2ea9c-95eb-3355-b65b-ba096853bc18",
@@ -371,6 +408,7 @@
  },
  "0xaC2ac36102f96f1FdEd2724F1d54b9FCa6bBf1Ee": {
   "chainId": 73927,
+  "contract": "0xaC2ac36102f96f1FdEd2724F1d54b9FCa6bBf1Ee",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/ndNBEpObYs7450U08oAOMnSEPzN66SL8Mh-f2pPWBDeWaKbXTPUIdrZph7yj8Z93Rl8uZ16m7Qjz-E-9JFKSsJ-F=s128",
   "mixinAssetId": "b91e18ff-a9ae-3dc7-8679-e935d9a4b34b",
@@ -381,6 +419,7 @@
  },
  "0xb272EdBF33D74F175B114471D0d0629cEC534879": {
   "chainId": 73927,
+  "contract": "0xb272EdBF33D74F175B114471D0d0629cEC534879",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/cT6iwy8ykm5SNYj-bgBKsqHOGALUJjifG-pGX0tFdB_lwUMsyZRUOtTlkIA7ktRJfMLEMY4g2UYxhTRlPjVZy52fKgLysRDYvwBz=s128",
   "mixinAssetId": "0c79a53f-9caf-3e7c-a3ce-1edcba33301f",
@@ -391,6 +430,7 @@
  },
  "0xc1d220E70A38196931877b1019c1f7038c7c61Aa": {
   "chainId": 73927,
+  "contract": "0xc1d220E70A38196931877b1019c1f7038c7c61Aa",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/InpT6RTK-tFLV7oUbCuG0J17vCNbRHW8iG_ZzPAkvCTZrtMaTXUnJ7VsYEDBlPFxddu9wvb5ctzmrawXcFsCPSo=s128",
   "mixinAssetId": "16fefe30-e19d-3229-a432-5d0fdb0abd4f",
@@ -401,6 +441,7 @@
  },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {
   "chainId": 73927,
+  "contract": "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/SXfRh0WJZpHrDAbBItuwwLp_TPML7hrbAPHGIz_EQRga0fFm5yGtNd55_W0ZZv9HRj_6W6kE4O4tq8W78mutAPE=s128",
   "mixinAssetId": "25dabac5-056a-48ff-b9f9-f67395dc407c",
@@ -411,6 +452,7 @@
  },
  "0xc98B066F7d54E0021B7e413FD6b480AE86Cd793F": {
   "chainId": 73927,
+  "contract": "0xc98B066F7d54E0021B7e413FD6b480AE86Cd793F",
   "decimals": 8,
   "logoURI": "https://mixin-images.zeromesh.net/CG3tv_IHBYhLbY5prHubEXO5Y4gW4ag2bYN2bczsSs5eI7CNrpdXi3PgJjRxsy1f4Do4I8JVIFOT48-7NeOB4qaEgHTMgXLV1hEcmg=s128",
   "mixinAssetId": "c3dc19ae-d087-3279-ac51-dc655940256a",

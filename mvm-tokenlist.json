@@ -307,13 +307,6 @@
   "name": "Cosmos",
   "symbol": "ATOM"
  },
- "0xDdC4621356B85e23f847F245FA26C0f20afCF123": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/nOkXsw1kQIO_yPug8Wgwmgb79Vtmqzp-nmSXgz5PrntZOVdrS88DVpUlGF4xwJHa0OghOKnmpToIKvnF7RF_PwjyHFJr3E8rJCaI=s128",
-  "name": "Electronic Dollars",
-  "symbol": "eUSD"
- },
  "0xE3cb8a2b08A760d4FC04d9C1f609d1c82fB75f60": {
   "chainId": 73927,
   "decimals": 8,

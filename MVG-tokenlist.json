@@ -76,6 +76,17 @@
   "stable": false,
   "symbol": "ETH"
  },
+ "0x1adE7df2B7036B592d36deB67304d3A207ADb9B2": {
+  "chainId": 73927,
+  "contract": "0x1adE7df2B7036B592d36deB67304d3A207ADb9B2",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/ndNBEpObYs7450U08oAOMnSEPzN66SL8Mh-f2pPWBDeWaKbXTPUIdrZph7yj8Z93Rl8uZ16m7Qjz-E-9JFKSsJ-F=s128",
+  "mixinAssetId": "94213408-4ee7-3150-a9c4-9c5cce421c78",
+  "mixinChainId": "1949e683-6a08-49e2-b087-d6b72398588f",
+  "name": "Tether USD",
+  "stable": true,
+  "symbol": "USDT"
+ },
  "0x27AD0c8e919bc6163Fdf564DE6Bbd9F2fe9cD1f0": {
   "chainId": 73927,
   "contract": "0x27AD0c8e919bc6163Fdf564DE6Bbd9F2fe9cD1f0",
@@ -130,6 +141,17 @@
   "name": "BigONE Token",
   "stable": false,
   "symbol": "ONE"
+ },
+ "0x3BeC5F9C988d78113640CEB5F21D9FA9733F4F5d": {
+  "chainId": 73927,
+  "contract": "0x3BeC5F9C988d78113640CEB5F21D9FA9733F4F5d",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/xFl-wIKkfzrKDnJMX1PjvcXyKYrW88yLvtiEHdudNkPnSZmY9CzibAlNp3C_wM6LFP9UzsBX-YlVNW_zoUNPWO5cowzT0Us48BOE=s128",
+  "mixinAssetId": "b7938396-3f94-4e0a-9179-d3440718156f",
+  "mixinChainId": "b7938396-3f94-4e0a-9179-d3440718156f",
+  "name": "Polygon",
+  "stable": false,
+  "symbol": "MATIC"
  },
  "0x3C55eB06e57f84ED08Ed4450F950475CcB837e87": {
   "chainId": 73927,

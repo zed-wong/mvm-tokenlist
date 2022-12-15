@@ -263,6 +263,17 @@
   "stable": false,
   "symbol": "XAUt"
  },
+ "0x8374055405Ce4b4ECeFD84E3719fE83F56d4AA62": {
+  "chainId": 73927,
+  "contract": "0x8374055405Ce4b4ECeFD84E3719fE83F56d4AA62",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/HCjLu6VM0XA7ouRcZJGDTOzE7zoXaA8LgESw075VW5teZ27AGUgyGrc4jnzuK5LtgT5HJQDSNSOImnU3IcUsBLoF=s128",
+  "mixinAssetId": "1949e683-6a08-49e2-b087-d6b72398588f",
+  "mixinChainId": "1949e683-6a08-49e2-b087-d6b72398588f",
+  "name": "Binance Token",
+  "stable": false,
+  "symbol": "BNB"
+ },
  "0x848DA82e0C1774062AEa81d3497d09A764A92428": {
   "chainId": 73927,
   "contract": "0x848DA82e0C1774062AEa81d3497d09A764A92428",
@@ -317,6 +328,17 @@
   "name": "yearn.finance",
   "stable": false,
   "symbol": "YFI"
+ },
+ "0x9a6110Fe7c3F5B19C43C7723A7924F2e4c1f0BE2": {
+  "chainId": 73927,
+  "contract": "0x9a6110Fe7c3F5B19C43C7723A7924F2e4c1f0BE2",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/ndNBEpObYs7450U08oAOMnSEPzN66SL8Mh-f2pPWBDeWaKbXTPUIdrZph7yj8Z93Rl8uZ16m7Qjz-E-9JFKSsJ-F=s128",
+  "mixinAssetId": "218bc6f4-7927-3f8e-8568-3a3725b74361",
+  "mixinChainId": "b7938396-3f94-4e0a-9179-d3440718156f",
+  "name": "(PoS) Tether USD",
+  "stable": true,
+  "symbol": "USDT"
  },
  "0x9bf5E97cfF222A4358B1a375C065d16851fAe485": {
   "chainId": 73927,
@@ -383,6 +405,17 @@
   "name": "Electronic Dollars",
   "stable": false,
   "symbol": "eUSD"
+ },
+ "0xE0BA86EC87df6E6797feB1F0d301576F862b05e6": {
+  "chainId": 73927,
+  "contract": "0xE0BA86EC87df6E6797feB1F0d301576F862b05e6",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/2K2ic-IsTp0_s-qDBC_0PPg2VWYHv5prngLETjMlUAnOrsbFitB6z5cBH52_hWh2C7POEGppEGW51MejlzWRg_KkoixLVyiA8arotA=s128",
+  "mixinAssetId": "7cf6f5a4-2b4a-30a1-a7f3-8718b6b5b56e",
+  "mixinChainId": "b7938396-3f94-4e0a-9179-d3440718156f",
+  "name": "Wrapped Ether",
+  "stable": false,
+  "symbol": "WETH"
  },
  "0xE3cb8a2b08A760d4FC04d9C1f609d1c82fB75f60": {
   "chainId": 73927,
@@ -482,5 +515,16 @@
   "name": "Decentraland MANA",
   "stable": false,
   "symbol": "MANA"
+ },
+ "0xf33F7af82565A5Bab977A13F1a8899B8ed95F4bE": {
+  "chainId": 73927,
+  "contract": "0xf33F7af82565A5Bab977A13F1a8899B8ed95F4bE",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/ps0EjmrIiW3dl3gnzh3YhcaPeCvODprUL7b_ZlB11_ZqQlEAoKYHu65z8CaOX31jzWt9RJo3mqRSdTksmZa9hpA=s128",
+  "mixinAssetId": "cfcd55cd-9f76-3941-81d6-9e7616cc1b83",
+  "mixinChainId": "1949e683-6a08-49e2-b087-d6b72398588f",
+  "name": "BUSD Token",
+  "stable": false,
+  "symbol": "BUSD"
  }
 }

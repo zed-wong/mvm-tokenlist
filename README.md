@@ -1,10 +1,15 @@
 # MVM Token List
 
-MVM token list in [defillama format](https://defillama-datasets.s3.eu-central-1.amazonaws.com/tokenlist/ethereum.json) fetched from api.mvm.dev.
+MVM token list fetched from api.mvm.dev.
 
-See [mvm-tokenlist.json](mvm-tokenlist.json) for the list of all tokens.
+| file | info |
+-------------------------------------------|------------|
+| [mvm-tokenlist.json](mvm-tokenlist.json) | all tokens |
+| [pure-tokenlist.json](pure-tokenlist.json) | list without 4swap LP tokens, Pando Rings rTokens, and each asset include Mixin AssetID and Mixin ChainID.|
+| [mvm-chainlist.json](mvm-chainlist.json)| all of the chain assets |
 
-See [MVG-tokenlist.json](MVG-tokenlist.json) for the list without 4swap LP tokens, Pando Rings rTokens, and each asset include Mixin AssetID and Mixin ChainID.
+
+
 
 
 ### Generate the latest token list

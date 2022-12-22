@@ -22,6 +22,17 @@ var (
 	STABLE_LIST = []string{"USDT", "USDC", "pUSD", "DAI"}
 	LP_LIST = []string{"LP Token"}
 	RINGS_LIST = []string{"Pando Rings"}
+	EVM_LIST = []string{
+		"43d61dcd-e413-450d-80b8-101d5e903357", // ETH
+		"b7938396-3f94-4e0a-9179-d3440718156f", // Polygon
+		"1949e683-6a08-49e2-b087-d6b72398588f", // BSC
+		"", // Arbitrum
+		"", // Optimism
+		"", // Avalance
+		"", // Fantom
+		"", // Gnosis
+		"", // Celo
+	}
 )
 
 type Result struct {
@@ -73,6 +84,15 @@ func isRings(name string) bool {
 func isChainAsset(assetID, chainID string) bool {
 	if (assetID == chainID) {
 		return true
+	}
+	return false
+}
+
+func isEVMChain(assetID string) bool {
+	for _, n := range EVM_LIST {
+		if (assetID == n) {
+			return true
+		}
 	}
 	return false
 }
@@ -159,10 +179,10 @@ func MVMChainList(name string) {
 		obj := gabs.New()
 		res := getContract(rest, asset.AssetID).Result().(*Result)
 		if (res.AssetContract == NULL_ADDR) { continue }
-
 		if (isLpToken(asset.Name)) { continue }
 		if (isRings(asset.Name)) { continue }
 		if (!isChainAsset(asset.AssetID, asset.ChainID)) { continue }
+
 		obj.Set(res.AssetContract, res.AssetContract, "contract")
 		obj.Set(isStable(asset.Symbol), res.AssetContract, "stable")
 		obj.Set(asset.AssetID, res.AssetContract, "mixinAssetId")
@@ -172,6 +192,10 @@ func MVMChainList(name string) {
 		obj.Set(asset.IconURL, res.AssetContract, "logoURI")
 		obj.Set(73927, res.AssetContract, "chainId")
 		obj.Set(8, res.AssetContract, "decimals")
+		obj.Set(false, res.AssetContract, "evm")
+		if (isEVMChain(asset.AssetID)) {
+			obj.Set(true, res.AssetContract, "evm")
+		}
 		fmt.Println(obj.StringIndent("", " "))
 		o.Merge(obj)
 	}

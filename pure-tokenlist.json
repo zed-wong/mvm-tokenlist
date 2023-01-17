@@ -351,17 +351,6 @@
   "stable": false,
   "symbol": "HNS"
  },
- "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
-  "chainId": 73927,
-  "contract": "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38",
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/tFruraMEXBLPCAkcS8oJIEz_aO9Dm5Z7DIY53zez-eJPP7L_MtoEAIHC1xaR2HaAEC7vS4fF7Kc8zX2n9qNI2PvnFeSo1FLZxK8o=s128",
-  "mixinAssetId": "3e3152d4-6eee-36b3-9685-e8ba54db4a22",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "JPY Coin",
-  "stable": false,
-  "symbol": "JPYC"
- },
  "0xBb632546bE5Bdfff7300326689C4b841A97b6354": {
   "chainId": 73927,
   "contract": "0xBb632546bE5Bdfff7300326689C4b841A97b6354",
@@ -394,17 +383,6 @@
   "name": "Cosmos",
   "stable": false,
   "symbol": "ATOM"
- },
- "0xDdC4621356B85e23f847F245FA26C0f20afCF123": {
-  "chainId": 73927,
-  "contract": "0xDdC4621356B85e23f847F245FA26C0f20afCF123",
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/nOkXsw1kQIO_yPug8Wgwmgb79Vtmqzp-nmSXgz5PrntZOVdrS88DVpUlGF4xwJHa0OghOKnmpToIKvnF7RF_PwjyHFJr3E8rJCaI=s128",
-  "mixinAssetId": "659c407a-0489-30bf-9e6f-84ef25c971c9",
-  "mixinChainId": "eea900a8-b327-488c-8d8d-1428702fe240",
-  "name": "Electronic Dollars",
-  "stable": false,
-  "symbol": "eUSD"
  },
  "0xE0BA86EC87df6E6797feB1F0d301576F862b05e6": {
   "chainId": 73927,

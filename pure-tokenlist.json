@@ -373,6 +373,17 @@
   "stable": false,
   "symbol": "BOX"
  },
+ "0xCF8055d7622F2F02986A4cFC56E92E1a0599FDe1": {
+  "chainId": 73927,
+  "contract": "0xCF8055d7622F2F02986A4cFC56E92E1a0599FDe1",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/HMXlpSt6KF9i-jp_ZQix9wFcMD27DrYox5kDrju6KkjvlQjQPZ2zimKKFYBJwecRTw5YAaMt4fpHXd1W0mwIxQ=s128",
+  "mixinAssetId": "44adc71b-0c37-3b42-aa19-fe2d59dae5fd",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "ExinOne Point Card",
+  "stable": false,
+  "symbol": "EPC"
+ },
  "0xD5465e77ca9ead248936601d643FFE375E9C1F90": {
   "chainId": 73927,
   "contract": "0xD5465e77ca9ead248936601d643FFE375E9C1F90",

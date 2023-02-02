@@ -175,6 +175,17 @@
   "stable": false,
   "symbol": "DOGE"
  },
+ "0x4a7B4e0A819b55b355d39fEC286162C593c9E1b9": {
+  "chainId": 73927,
+  "contract": "0x4a7B4e0A819b55b355d39fEC286162C593c9E1b9",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/J8FkQaYJDR5RXZvzMkgQJRDimIrGxML6D5U7RfKFGSShKcW62dNNad2jA1oUXWk8kJdHahc25ebNnJgCxY_3bfZyxAptKqcOCYg=s128",
+  "mixinAssetId": "76d340c6-24c2-3111-8d55-90e358b5e02e",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Uqinzen",
+  "stable": false,
+  "symbol": "UQn"
+ },
  "0x4d3730F61c0D86374AEB573E60e689B3c28BA907": {
   "chainId": 73927,
   "contract": "0x4d3730F61c0D86374AEB573E60e689B3c28BA907",

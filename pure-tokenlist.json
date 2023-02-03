@@ -175,17 +175,6 @@
   "stable": false,
   "symbol": "DOGE"
  },
- "0x4a7B4e0A819b55b355d39fEC286162C593c9E1b9": {
-  "chainId": 73927,
-  "contract": "0x4a7B4e0A819b55b355d39fEC286162C593c9E1b9",
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/J8FkQaYJDR5RXZvzMkgQJRDimIrGxML6D5U7RfKFGSShKcW62dNNad2jA1oUXWk8kJdHahc25ebNnJgCxY_3bfZyxAptKqcOCYg=s128",
-  "mixinAssetId": "76d340c6-24c2-3111-8d55-90e358b5e02e",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Uqinzen",
-  "stable": false,
-  "symbol": "UQn"
- },
  "0x4d3730F61c0D86374AEB573E60e689B3c28BA907": {
   "chainId": 73927,
   "contract": "0x4d3730F61c0D86374AEB573E60e689B3c28BA907",
@@ -361,6 +350,17 @@
   "name": "Handshake",
   "stable": false,
   "symbol": "HNS"
+ },
+ "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
+  "chainId": 73927,
+  "contract": "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/tFruraMEXBLPCAkcS8oJIEz_aO9Dm5Z7DIY53zez-eJPP7L_MtoEAIHC1xaR2HaAEC7vS4fF7Kc8zX2n9qNI2PvnFeSo1FLZxK8o=s128",
+  "mixinAssetId": "3e3152d4-6eee-36b3-9685-e8ba54db4a22",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "JPY Coin",
+  "stable": false,
+  "symbol": "JPYC"
  },
  "0xBb632546bE5Bdfff7300326689C4b841A97b6354": {
   "chainId": 73927,

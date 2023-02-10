@@ -69,13 +69,6 @@
   "name": "SHIBA INU",
   "symbol": "SHIB"
  },
- "0x181251D3A501961d4Af2AF46E33C71A5D808c25B": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
-  "name": "Ether",
-  "symbol": "ETH"
- },
  "0x1Eed5e5d1599b529Ca61cd51F1d6aa2da55533A6": {
   "chainId": 73927,
   "decimals": 8,
@@ -307,6 +300,13 @@
   "name": "JPY Coin",
   "symbol": "JPYC"
  },
+ "0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/2K2ic-IsTp0_s-qDBC_0PPg2VWYHv5prngLETjMlUAnOrsbFitB6z5cBH52_hWh2C7POEGppEGW51MejlzWRg_KkoixLVyiA8arotA=s128",
+  "name": "Wrapped Ether",
+  "symbol": "WETH"
+ },
  "0xBb632546bE5Bdfff7300326689C4b841A97b6354": {
   "chainId": 73927,
   "decimals": 8,
@@ -425,6 +425,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/SLY97KrtRfySQbCq-QQ7qumjsKzuGwuD1ODqjFaKbnOm1EdbtrP4ts1GCADVDoFJ4rjQq9P7SUrPchWgU2dNFA=s128",
   "name": "4swap LP Token ETH-XIN",
   "symbol": "sETH-XIN"
+ },
+ "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
+  "name": "Ether",
+  "symbol": "ETH"
  },
  "0xf33F7af82565A5Bab977A13F1a8899B8ed95F4bE": {
   "chainId": 73927,

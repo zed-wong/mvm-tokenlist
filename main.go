@@ -15,6 +15,14 @@ import (
 const (
 	ENDPOINT = "https://api.mvm.dev/asset_contract?asset="
 	NULL_ADDR = "0x0000000000000000000000000000000000000000"
+	NaNa_ADDR = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+
+	// ETH used in the registry contract, but deprecated after the native currency change.
+	DEPRECATED_ETH = "0x181251D3A501961d4Af2AF46E33C71A5D808c25B"
+	// WETH used in the registry contract, but useless when it comes to MVM because the lack of methods.
+	DEPRECATED_WETH = "0x6D759901Aa3104BAAE6c15EA19eaE06A84d4cC3d"
+	// WETH9 deployed on MVM Mainnet to replace WETH created by the registry
+	WETH9_ADDRESS = "0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015"
 )
 
 var (
@@ -97,6 +105,20 @@ func isEVMChain(assetID string) bool {
 	return false
 }
 
+/*
+"%s": {
+  "chainId": 73927,
+  "contract": "%s",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/2K2ic-IsTp0_s-qDBC_0PPg2VWYHv5prngLETjMlUAnOrsbFitB6z5cBH52_hWh2C7POEGppEGW51MejlzWRg_KkoixLVyiA8arotA=s128",
+  "mixinAssetId": "00000000-0000-0000-0000-000000000000",
+  "mixinChainId": "00000000-0000-0000-0000-000000000000",
+  "name": "Wrapped Ether",
+  "stable": false,
+  "symbol": "WETH"
+}}`, WETH9_ADDRESS, WETH9_ADDRESS)))
+*/
+
 func llamaTokenlist(name string) {
 	rest := resty.New()
 	ctx := context.Background()
@@ -112,6 +134,8 @@ func llamaTokenlist(name string) {
 		obj := gabs.New()
 		res := getContract(rest, asset.AssetID).Result().(*Result)
 		if (res.AssetContract == NULL_ADDR) { continue }
+		if (res.AssetContract == DEPRECATED_ETH) { res.AssetContract = NaNa_ADDR }
+		if (res.AssetContract == DEPRECATED_WETH) { res.AssetContract = WETH9_ADDRESS }
 
 		obj.Set(asset.Name, res.AssetContract, "name")
 		obj.Set(asset.Symbol, res.AssetContract, "symbol")
@@ -140,6 +164,8 @@ func PureTokenlist(name string) {
 		obj := gabs.New()
 		res := getContract(rest, asset.AssetID).Result().(*Result)
 		if (res.AssetContract == NULL_ADDR) { continue }
+		if (res.AssetContract == DEPRECATED_ETH) { res.AssetContract = NaNa_ADDR }
+		if (res.AssetContract == DEPRECATED_WETH) { res.AssetContract = WETH9_ADDRESS }
 
 		if (isLpToken(asset.Name)) { continue }
 		if (isRings(asset.Name)) { continue }
@@ -157,10 +183,6 @@ func PureTokenlist(name string) {
 	}
 	writeFile(name, o.StringIndent("", " "))
 	fmt.Println("Token info saved in", name)
-}
-
-func SymbolAddressList(name string) {
-	// WIP
 }
 
 func MVMChainList(name string) {
@@ -182,6 +204,7 @@ func MVMChainList(name string) {
 		if (isLpToken(asset.Name)) { continue }
 		if (isRings(asset.Name)) { continue }
 		if (!isChainAsset(asset.AssetID, asset.ChainID)) { continue }
+		if (res.AssetContract == DEPRECATED_ETH) { res.AssetContract = NaNa_ADDR }
 
 		obj.Set(res.AssetContract, res.AssetContract, "contract")
 		obj.Set(isStable(asset.Symbol), res.AssetContract, "stable")

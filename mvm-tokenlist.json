@@ -258,6 +258,13 @@
   "name": "IQ",
   "symbol": "IQ"
  },
+ "0x8AEdC5Dc38348626536b4Fa8fd9e9054cEB144FB": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/pmE8snyjvG1eiP6O_BoRzlUXMEG8jM59L6fj4Z_c-NkBGnoFKm5phWkcBqFbnVrUelavFgwqZslG2d0fT02njjWTiB6NHmL-0u0=s128",
+  "name": "4swap LP Token HNS-pUSD",
+  "symbol": "sHNS-pUSD"
+ },
  "0x8Cb6c1487f18f645e4Be593F6340135d0752BF43": {
   "chainId": 73927,
   "decimals": 8,

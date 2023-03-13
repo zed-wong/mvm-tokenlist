@@ -439,6 +439,17 @@
   "stable": false,
   "symbol": "EOS"
  },
+ "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+  "chainId": 73927,
+  "contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
+  "mixinAssetId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Ether",
+  "stable": false,
+  "symbol": "ETH"
+ },
  "0xF7418b9535363d23796711B4406AeF7155451839": {
   "chainId": 73927,
   "contract": "0xF7418b9535363d23796711B4406AeF7155451839",
@@ -515,17 +526,6 @@
   "name": "Decentraland MANA",
   "stable": false,
   "symbol": "MANA"
- },
- "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
-  "chainId": 73927,
-  "contract": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
-  "mixinAssetId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Ether",
-  "stable": false,
-  "symbol": "ETH"
  },
  "0xf33F7af82565A5Bab977A13F1a8899B8ed95F4bE": {
   "chainId": 73927,

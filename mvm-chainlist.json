@@ -191,6 +191,18 @@
   "stable": false,
   "symbol": "EOS"
  },
+ "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+  "chainId": 73927,
+  "contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "decimals": 8,
+  "evm": true,
+  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
+  "mixinAssetId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
+  "name": "Ether",
+  "stable": false,
+  "symbol": "ETH"
+ },
  "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e": {
   "chainId": 73927,
   "contract": "0xc39cB12df2Ab413d4f3D1a2212a09bBF98fF650e",
@@ -202,17 +214,5 @@
   "name": "TRON",
   "stable": false,
   "symbol": "TRX"
- },
- "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
-  "chainId": 73927,
-  "contract": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-  "decimals": 8,
-  "evm": true,
-  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
-  "mixinAssetId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Ether",
-  "stable": false,
-  "symbol": "ETH"
  }
 }

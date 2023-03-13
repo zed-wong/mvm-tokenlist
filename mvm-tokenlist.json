@@ -370,6 +370,13 @@
   "name": "EOS",
   "symbol": "EOS"
  },
+ "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
+  "name": "Ether",
+  "symbol": "ETH"
+ },
  "0xF2654Dfbb2499C0314aC2a5B4F2806A70B949e08": {
   "chainId": 73927,
   "decimals": 8,
@@ -432,13 +439,6 @@
   "logoURI": "https://mixin-images.zeromesh.net/SLY97KrtRfySQbCq-QQ7qumjsKzuGwuD1ODqjFaKbnOm1EdbtrP4ts1GCADVDoFJ4rjQq9P7SUrPchWgU2dNFA=s128",
   "name": "4swap LP Token ETH-XIN",
   "symbol": "sETH-XIN"
- },
- "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
-  "name": "Ether",
-  "symbol": "ETH"
  },
  "0xf33F7af82565A5Bab977A13F1a8899B8ed95F4bE": {
   "chainId": 73927,

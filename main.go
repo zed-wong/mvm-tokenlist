@@ -1,21 +1,21 @@
 package main
 
 import (
-	"log"
-	"fmt"
-	"strings"
 	"context"
+	"fmt"
 	"io/ioutil"
+	"log"
+	"strings"
 
 	"github.com/Jeffail/gabs"
-	"github.com/go-resty/resty/v2"
 	"github.com/fox-one/mixin-sdk-go"
+	"github.com/go-resty/resty/v2"
 )
 
 const (
-	ENDPOINT = "https://api.mvm.dev/asset_contract?asset="
+	ENDPOINT  = "https://api.mvm.dev/asset_contract?asset="
 	NULL_ADDR = "0x0000000000000000000000000000000000000000"
-	NaNa_ADDR = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+	NaNa_ADDR = "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
 
 	// ETH used in the registry contract, but deprecated after the native currency change.
 	DEPRECATED_ETH = "0x181251D3A501961d4Af2AF46E33C71A5D808c25B"
@@ -26,20 +26,20 @@ const (
 )
 
 var (
-	NAMES = []string{"pure-tokenlist.json", "mvm-tokenlist.json", "mvm-chainlist.json"}
+	NAMES       = []string{"pure-tokenlist.json", "mvm-tokenlist.json", "mvm-chainlist.json"}
 	STABLE_LIST = []string{"USDT", "USDC", "pUSD", "DAI"}
-	LP_LIST = []string{"LP Token"}
-	RINGS_LIST = []string{"Pando Rings"}
-	EVM_LIST = []string{
+	LP_LIST     = []string{"LP Token"}
+	RINGS_LIST  = []string{"Pando Rings"}
+	EVM_LIST    = []string{
 		"43d61dcd-e413-450d-80b8-101d5e903357", // ETH
 		"b7938396-3f94-4e0a-9179-d3440718156f", // Polygon
 		"1949e683-6a08-49e2-b087-d6b72398588f", // BSC
-		"", // Arbitrum
-		"", // Optimism
-		"", // Avalance
-		"", // Fantom
-		"", // Gnosis
-		"", // Celo
+		"",                                     // Arbitrum
+		"",                                     // Optimism
+		"",                                     // Avalance
+		"",                                     // Fantom
+		"",                                     // Gnosis
+		"",                                     // Celo
 	}
 )
 
@@ -54,8 +54,8 @@ func writeFile(filename, data string) {
 	}
 }
 
-func getContract(rest *resty.Client, assetID string) *resty.Response{
-	resp, err := rest.R().SetResult(&Result{}).Get(ENDPOINT+assetID)
+func getContract(rest *resty.Client, assetID string) *resty.Response {
+	resp, err := rest.R().SetResult(&Result{}).Get(ENDPOINT + assetID)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -90,7 +90,7 @@ func isRings(name string) bool {
 }
 
 func isChainAsset(assetID, chainID string) bool {
-	if (assetID == chainID) {
+	if assetID == chainID {
 		return true
 	}
 	return false
@@ -98,7 +98,7 @@ func isChainAsset(assetID, chainID string) bool {
 
 func isEVMChain(assetID string) bool {
 	for _, n := range EVM_LIST {
-		if (assetID == n) {
+		if assetID == n {
 			return true
 		}
 	}
@@ -128,14 +128,20 @@ func llamaTokenlist(name string) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	
+
 	o := gabs.New()
 	for _, asset := range topAssets {
 		obj := gabs.New()
 		res := getContract(rest, asset.AssetID).Result().(*Result)
-		if (res.AssetContract == NULL_ADDR) { continue }
-		if (res.AssetContract == DEPRECATED_ETH) { res.AssetContract = NaNa_ADDR }
-		if (res.AssetContract == DEPRECATED_WETH) { res.AssetContract = WETH9_ADDRESS }
+		if res.AssetContract == NULL_ADDR {
+			continue
+		}
+		if res.AssetContract == DEPRECATED_ETH {
+			res.AssetContract = NaNa_ADDR
+		}
+		if res.AssetContract == DEPRECATED_WETH {
+			res.AssetContract = WETH9_ADDRESS
+		}
 
 		obj.Set(asset.Name, res.AssetContract, "name")
 		obj.Set(asset.Symbol, res.AssetContract, "symbol")
@@ -158,17 +164,27 @@ func PureTokenlist(name string) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	
+
 	o := gabs.New()
 	for _, asset := range topAssets {
 		obj := gabs.New()
 		res := getContract(rest, asset.AssetID).Result().(*Result)
-		if (res.AssetContract == NULL_ADDR) { continue }
-		if (res.AssetContract == DEPRECATED_ETH) { res.AssetContract = NaNa_ADDR }
-		if (res.AssetContract == DEPRECATED_WETH) { res.AssetContract = WETH9_ADDRESS }
+		if res.AssetContract == NULL_ADDR {
+			continue
+		}
+		if res.AssetContract == DEPRECATED_ETH {
+			res.AssetContract = NaNa_ADDR
+		}
+		if res.AssetContract == DEPRECATED_WETH {
+			res.AssetContract = WETH9_ADDRESS
+		}
 
-		if (isLpToken(asset.Name)) { continue }
-		if (isRings(asset.Name)) { continue }
+		if isLpToken(asset.Name) {
+			continue
+		}
+		if isRings(asset.Name) {
+			continue
+		}
 		obj.Set(res.AssetContract, res.AssetContract, "contract")
 		obj.Set(isStable(asset.Symbol), res.AssetContract, "stable")
 		obj.Set(asset.AssetID, res.AssetContract, "mixinAssetId")
@@ -195,16 +211,26 @@ func MVMChainList(name string) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	
+
 	o := gabs.New()
 	for _, asset := range topAssets {
 		obj := gabs.New()
 		res := getContract(rest, asset.AssetID).Result().(*Result)
-		if (res.AssetContract == NULL_ADDR) { continue }
-		if (isLpToken(asset.Name)) { continue }
-		if (isRings(asset.Name)) { continue }
-		if (!isChainAsset(asset.AssetID, asset.ChainID)) { continue }
-		if (res.AssetContract == DEPRECATED_ETH) { res.AssetContract = NaNa_ADDR }
+		if res.AssetContract == NULL_ADDR {
+			continue
+		}
+		if isLpToken(asset.Name) {
+			continue
+		}
+		if isRings(asset.Name) {
+			continue
+		}
+		if !isChainAsset(asset.AssetID, asset.ChainID) {
+			continue
+		}
+		if res.AssetContract == DEPRECATED_ETH {
+			res.AssetContract = NaNa_ADDR
+		}
 
 		obj.Set(res.AssetContract, res.AssetContract, "contract")
 		obj.Set(isStable(asset.Symbol), res.AssetContract, "stable")
@@ -216,7 +242,7 @@ func MVMChainList(name string) {
 		obj.Set(73927, res.AssetContract, "chainId")
 		obj.Set(8, res.AssetContract, "decimals")
 		obj.Set(false, res.AssetContract, "evm")
-		if (isEVMChain(asset.AssetID)) {
+		if isEVMChain(asset.AssetID) {
 			obj.Set(true, res.AssetContract, "evm")
 		}
 		fmt.Println(obj.StringIndent("", " "))

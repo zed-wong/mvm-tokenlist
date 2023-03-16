@@ -153,13 +153,6 @@
   "name": "Dogecoin",
   "symbol": "DOGE"
  },
- "0x4a7B4e0A819b55b355d39fEC286162C593c9E1b9": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/J8FkQaYJDR5RXZvzMkgQJRDimIrGxML6D5U7RfKFGSShKcW62dNNad2jA1oUXWk8kJdHahc25ebNnJgCxY_3bfZyxAptKqcOCYg=s128",
-  "name": "Uqinzen",
-  "symbol": "UQn"
- },
  "0x4d3730F61c0D86374AEB573E60e689B3c28BA907": {
   "chainId": 73927,
   "decimals": 8,
@@ -306,13 +299,6 @@
   "logoURI": "https://mixin-images.zeromesh.net/VvNrYJDwMh4HbKmnSQrzFvJbNd3pRtP1N-4cXFi09BluI2BMUAmxHsoXXXRO7y4q9cqs5qAXz-XondTANQgklzKu=s128",
   "name": "Handshake",
   "symbol": "HNS"
- },
- "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/tFruraMEXBLPCAkcS8oJIEz_aO9Dm5Z7DIY53zez-eJPP7L_MtoEAIHC1xaR2HaAEC7vS4fF7Kc8zX2n9qNI2PvnFeSo1FLZxK8o=s128",
-  "name": "JPY Coin",
-  "symbol": "JPYC"
  },
  "0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015": {
   "chainId": 73927,

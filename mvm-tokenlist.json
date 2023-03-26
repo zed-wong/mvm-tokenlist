@@ -27,6 +27,13 @@
   "name": "USD//C",
   "symbol": "USDC"
  },
+ "0x084edd1C4BB3B90AE8DDBf52a7bB50DB593d3697": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/w3Lb-pMrgcmmrzamf7FG_0c6Dkh3w_NRbysqzpuacwdVhMYSOtnX2zedWqiSG7JuZ3jd4xfhAJduQXY1rPidmywn=s128",
+  "name": "USD Coin (PoS)",
+  "symbol": "USDC"
+ },
  "0x0A11b6410354de9703EadCa8F4D7a76dCE4C2ceA": {
   "chainId": 73927,
   "decimals": 8,

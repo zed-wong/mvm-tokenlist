@@ -21,6 +21,17 @@
   "stable": true,
   "symbol": "USDC"
  },
+ "0x084edd1C4BB3B90AE8DDBf52a7bB50DB593d3697": {
+  "chainId": 73927,
+  "contract": "0x084edd1C4BB3B90AE8DDBf52a7bB50DB593d3697",
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/w3Lb-pMrgcmmrzamf7FG_0c6Dkh3w_NRbysqzpuacwdVhMYSOtnX2zedWqiSG7JuZ3jd4xfhAJduQXY1rPidmywn=s128",
+  "mixinAssetId": "80b65786-7c75-3523-bc03-fb25378eae41",
+  "mixinChainId": "b7938396-3f94-4e0a-9179-d3440718156f",
+  "name": "USD Coin (PoS)",
+  "stable": true,
+  "symbol": "USDC"
+ },
  "0x0cc37ae93e48C9F3C1de24EEBA649794588618bA": {
   "chainId": 73927,
   "contract": "0x0cc37ae93e48C9F3C1de24EEBA649794588618bA",

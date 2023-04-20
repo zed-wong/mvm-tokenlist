@@ -202,6 +202,13 @@
   "name": "Pando Rings pUSD",
   "symbol": "rUSD"
  },
+ "0x6A425e560543CC8B6Ff8f382B350fA99a354fF56": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/Ro2bvOUqsBuK5qU2l68l5B-x4SJ3Orxsk2UnOSGk163xUzEmlhTC9OjKVkLd8HcpkM-uhHcPUeMpDpl-zzpQLeoux90Rj9wiJ8CN=s128",
+  "name": "4swap LP Token ETH-USDT",
+  "symbol": "sETH-USDT"
+ },
  "0x6CAE838361447259Cdb060B39B3EB0416a800CbE": {
   "chainId": 73927,
   "decimals": 8,

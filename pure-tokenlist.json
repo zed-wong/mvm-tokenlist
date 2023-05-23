@@ -307,17 +307,6 @@
   "stable": false,
   "symbol": "AR"
  },
- "0x5222892Bc50Ea91d55deb7D6A57EC0E916308ed4": {
-  "chainId": 73927,
-  "contract": "0x5222892Bc50Ea91d55deb7D6A57EC0E916308ed4",
-  "decimals": 8,
-  "logoURI": "https://images.mixin.one/yH_I5b0GiV2zDmvrXRyr3bK5xusjfy5q7FX3lw3mM2Ryx4Dfuj6Xcw8SHNRnDKm7ZVE3_LvpKlLdcLrlFQUBhds=s128",
-  "mixinAssetId": "8e9b7ccf-6ef0-39a1-a43e-f4dd0c8d3563",
-  "mixinChainId": "43d61dcd-e413-450d-80b8-101d5e903357",
-  "name": "Gala",
-  "stable": false,
-  "symbol": "GALA"
- },
  "0x59e0f2E9254dB4D662eF36a02118eC5DBd9f8dfb": {
   "chainId": 73927,
   "contract": "0x59e0f2E9254dB4D662eF36a02118eC5DBd9f8dfb",

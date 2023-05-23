@@ -26,7 +26,7 @@ const (
 )
 
 var (
-	NAMES       = []string{"pure-tokenlist.json", "mvm-tokenlist.json", "mvm-chainlist.json"}
+	NAMES       = []string{"pure-tokenlist.json", "mvm-tokenlist.json", "mvm-chainlist.json", "asset-symbol-key.json"}
 	STABLE_LIST = []string{"USDT", "USDC", "pUSD", "DAI"}
 	LP_LIST     = []string{"LP Token"}
 	RINGS_LIST  = []string{"Pando Rings"}
@@ -252,8 +252,50 @@ func MVMChainList(name string) {
 	fmt.Println("Token info saved in", name)
 }
 
+func contains(elems []string, v string) bool {
+	for _, s := range elems {
+		if v == s {
+			return true
+		}
+	}
+	return false
+}
+
+func AssetKeyList(name string) {
+	// Asset symbol to Asset Key (Only ERC20)
+	ctx := context.Background()
+	topAssets, err := mixin.ReadTopNetworkAssets(ctx)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	var keys []string
+	o := gabs.New()
+	for _, asset := range topAssets {
+		symbol := strings.ToLower(asset.Symbol)
+
+		// Skip non-ERC20
+		if len(asset.AssetKey) != 42 {
+			continue
+		}
+		// Skip duplicated
+		if contains(keys, symbol) {
+			continue
+		}
+		keys = append(keys, symbol)
+
+		obj := gabs.New()
+		obj.Set(asset.AssetKey, symbol)
+		print(symbol, ":", asset.AssetKey, "\n")
+		o.Merge(obj)
+	}
+	writeFile(name, o.StringIndent("", " "))
+	fmt.Println("Asset key list saved in", name)
+}
+
 func main() {
 	PureTokenlist(NAMES[0])
 	llamaTokenlist(NAMES[1])
 	MVMChainList(NAMES[2])
+	AssetKeyList(NAMES[3])
 }

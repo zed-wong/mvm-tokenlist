@@ -105,20 +105,6 @@ func isEVMChain(assetID string) bool {
 	return false
 }
 
-/*
-"%s": {
-  "chainId": 73927,
-  "contract": "%s",
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/2K2ic-IsTp0_s-qDBC_0PPg2VWYHv5prngLETjMlUAnOrsbFitB6z5cBH52_hWh2C7POEGppEGW51MejlzWRg_KkoixLVyiA8arotA=s128",
-  "mixinAssetId": "00000000-0000-0000-0000-000000000000",
-  "mixinChainId": "00000000-0000-0000-0000-000000000000",
-  "name": "Wrapped Ether",
-  "stable": false,
-  "symbol": "WETH"
-}}`, WETH9_ADDRESS, WETH9_ADDRESS)))
-*/
-
 func llamaTokenlist(name string) {
 	rest := resty.New()
 	ctx := context.Background()
@@ -271,6 +257,11 @@ func AssetKeyList(name string) {
 
 	var keys []string
 	o := gabs.New()
+
+	wbtc := gabs.New()
+	wbtc.Set("0x2260fac5e5542a773aa44fbcfedf7c193bc2c599", "btc")
+	o.Merge(wbtc)
+
 	for _, asset := range topAssets {
 		symbol := strings.ToLower(asset.Symbol)
 

@@ -9,6 +9,7 @@ MVM token list fetched from api.mvm.dev.
 | [mvm-chainlist.json](mvm-chainlist.json)| all of the chain assets |
 | [evm-asset-chain-map.json](evm-asset-chain-map.json)| map of asset id and chain id of evm-compatible chains |
 | [evm-chain-asset-map.json](evm-chain-asset-map.json)| map of chain id and asset id of evm-compatible chains |
+| [asset-symbol-key.json](asset-symbol-key.json)| map of asset symbol to asset key|
 
 
 ### Generate the latest token list

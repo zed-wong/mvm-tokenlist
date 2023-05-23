@@ -28,7 +28,7 @@ const (
 var (
 	NAMES       = []string{"pure-tokenlist.json", "mvm-tokenlist.json", "mvm-chainlist.json", "asset-symbol-key.json"}
 	STABLE_LIST = []string{"USDT", "USDC", "pUSD", "DAI"}
-	LP_LIST     = []string{"LP Token"}
+	LP_LIST     = []string{"LP Token", "4swap"}
 	RINGS_LIST  = []string{"Pando Rings"}
 	EVM_LIST    = []string{
 		"43d61dcd-e413-450d-80b8-101d5e903357", // ETH
@@ -273,6 +273,13 @@ func AssetKeyList(name string) {
 	o := gabs.New()
 	for _, asset := range topAssets {
 		symbol := strings.ToLower(asset.Symbol)
+
+		if isLpToken(asset.Name) {
+			continue
+		}
+		if isRings(asset.Name) {
+			continue
+		}
 
 		// Skip non-ERC20
 		if len(asset.AssetKey) != 42 {

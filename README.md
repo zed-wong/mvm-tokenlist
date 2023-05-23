@@ -10,6 +10,7 @@ MVM token list fetched from api.mvm.dev.
 | [evm-asset-chain-map.json](evm-asset-chain-map.json)| map of asset id and chain id of evm-compatible chains |
 | [evm-chain-asset-map.json](evm-chain-asset-map.json)| map of chain id and asset id of evm-compatible chains |
 | [asset-symbol-key.json](asset-symbol-key.json)| map of asset symbol to asset key|
+| [mixin-top-assets.json](mixin-top-assets.json)| top assets without lp tokens |
 
 
 ### Generate the latest token list

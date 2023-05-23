@@ -10,6 +10,7 @@ import (
 	"github.com/Jeffail/gabs"
 	"github.com/fox-one/mixin-sdk-go"
 	"github.com/go-resty/resty/v2"
+	"github.com/tidwall/gjson"
 )
 
 const (
@@ -52,6 +53,15 @@ func writeFile(filename, data string) {
 	if err != nil {
 		log.Fatal(err)
 	}
+}
+
+func readFile(filename string) (string, error) {
+	body, err := ioutil.ReadFile(filename)
+	if err != nil {
+		log.Fatalf("unable to read file: %v", err)
+		return "", err
+	}
+	return string(body), nil
 }
 
 func getContract(rest *resty.Client, assetID string) *resty.Response {
@@ -249,31 +259,33 @@ func contains(elems []string, v string) bool {
 
 func AssetKeyList(name string) {
 	// Asset symbol to Asset Key (Only ERC20)
-	ctx := context.Background()
-	topAssets, err := mixin.ReadTopNetworkAssets(ctx)
+	Assets, err := readFile("mixin-top-assets.json")
 	if err != nil {
-		log.Fatal(err)
+		log.Println(err)
 	}
+	assets := gjson.Get(Assets, "assets").Array()
 
 	var keys []string
 	o := gabs.New()
+	// set btc as wbtc
+	o.Set("0x2260fac5e5542a773aa44fbcfedf7c193bc2c599", "btc")
 
-	wbtc := gabs.New()
-	wbtc.Set("0x2260fac5e5542a773aa44fbcfedf7c193bc2c599", "btc")
-	o.Merge(wbtc)
+	for _, asset := range assets {
+		SYMBOL := asset.Get("symbol").String()
+		NAME := asset.Get("name").String()
+		KEY := asset.Get("asset_key").String()
 
-	for _, asset := range topAssets {
-		symbol := strings.ToLower(asset.Symbol)
+		symbol := strings.ToLower(SYMBOL)
 
-		if isLpToken(asset.Name) {
+		if isLpToken(NAME) {
 			continue
 		}
-		if isRings(asset.Name) {
+		if isRings(NAME) {
 			continue
 		}
 
 		// Skip non-ERC20
-		if len(asset.AssetKey) != 42 {
+		if len(KEY) != 42 {
 			continue
 		}
 		// Skip duplicated
@@ -283,8 +295,8 @@ func AssetKeyList(name string) {
 		keys = append(keys, symbol)
 
 		obj := gabs.New()
-		obj.Set(asset.AssetKey, symbol)
-		print(symbol, ":", asset.AssetKey, "\n")
+		obj.Set(KEY, symbol)
+		print(symbol, ":", KEY, "\n")
 		o.Merge(obj)
 	}
 	writeFile(name, o.StringIndent("", " "))
@@ -292,8 +304,8 @@ func AssetKeyList(name string) {
 }
 
 func main() {
-	PureTokenlist(NAMES[0])
-	llamaTokenlist(NAMES[1])
-	MVMChainList(NAMES[2])
+	//	PureTokenlist(NAMES[0])
+	//	llamaTokenlist(NAMES[1])
+	//	MVMChainList(NAMES[2])
 	AssetKeyList(NAMES[3])
 }

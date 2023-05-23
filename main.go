@@ -304,8 +304,8 @@ func AssetKeyList(name string) {
 }
 
 func main() {
-	//	PureTokenlist(NAMES[0])
-	//	llamaTokenlist(NAMES[1])
-	//	MVMChainList(NAMES[2])
+	PureTokenlist(NAMES[0])
+	llamaTokenlist(NAMES[1])
+	MVMChainList(NAMES[2])
 	AssetKeyList(NAMES[3])
 }

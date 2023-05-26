@@ -181,13 +181,6 @@
   "name": "APENFT",
   "symbol": "NFT"
  },
- "0x3764B3bE4fEa79397cA42c5C5e83d900E94AF44E": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/88wAADOmxy6Xw-h3JiZfXXvNDQgefLOLQgeyY5mPEWQaY9-k1_224v0Lcs4Kwi2JJNEH0wK_Zon7SVZzZbp8XMtbZJglWZSEuN3h=s128",
-  "name": "PINK",
-  "symbol": "PINK"
- },
  "0x38402aeA0D4E0D6BE99cE226e715f4D14284fBc1": {
   "chainId": 73927,
   "decimals": 8,
@@ -565,6 +558,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/cT6iwy8ykm5SNYj-bgBKsqHOGALUJjifG-pGX0tFdB_lwUMsyZRUOtTlkIA7ktRJfMLEMY4g2UYxhTRlPjVZy52fKgLysRDYvwBz=s128",
   "name": "FTT",
   "symbol": "FTX Token"
+ },
+ "0xb3030E033da1E4dBF9CFE22085d678fEAb5862f1": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/OOM9HmydMSiT1-VA5zWkAva0QgRBOHnWYwRKqinBVp2qmKDc8IELER2S0dKNV7GINTGdx5ZMPcvJsULFJ5u1bFPEj0IHY3XLui_I=s128",
+  "name": "4swap LP Token BSV-pUSD",
+  "symbol": "sBSV-pUSD"
  },
  "0xc1d220E70A38196931877b1019c1f7038c7c61Aa": {
   "chainId": 73927,

@@ -181,13 +181,6 @@
   "name": "APENFT",
   "symbol": "NFT"
  },
- "0x3764B3bE4fEa79397cA42c5C5e83d900E94AF44E": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/88wAADOmxy6Xw-h3JiZfXXvNDQgefLOLQgeyY5mPEWQaY9-k1_224v0Lcs4Kwi2JJNEH0wK_Zon7SVZzZbp8XMtbZJglWZSEuN3h=s128",
-  "name": "PINK",
-  "symbol": "PINK"
- },
  "0x38402aeA0D4E0D6BE99cE226e715f4D14284fBc1": {
   "chainId": 73927,
   "decimals": 8,
@@ -474,13 +467,6 @@
   "logoURI": "https://mixin-images.zeromesh.net/t-HH_7zAE5Y7OG9WgC1muIeFWJee4WypzbdJ5FjakEIivRYnSz89CBR4twXH-K_wFFodURRhYulVY-PrOO35ZoQ=s128",
   "name": "Cosmos",
   "symbol": "ATOM"
- },
- "0xDdC4621356B85e23f847F245FA26C0f20afCF123": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/nOkXsw1kQIO_yPug8Wgwmgb79Vtmqzp-nmSXgz5PrntZOVdrS88DVpUlGF4xwJHa0OghOKnmpToIKvnF7RF_PwjyHFJr3E8rJCaI=s128",
-  "name": "Electronic Dollars",
-  "symbol": "eUSD"
  },
  "0xE0BA86EC87df6E6797feB1F0d301576F862b05e6": {
   "chainId": 73927,

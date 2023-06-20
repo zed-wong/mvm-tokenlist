@@ -582,17 +582,6 @@
   "stable": false,
   "symbol": "ATOM"
  },
- "0xDdC4621356B85e23f847F245FA26C0f20afCF123": {
-  "chainId": 73927,
-  "contract": "0xDdC4621356B85e23f847F245FA26C0f20afCF123",
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/nOkXsw1kQIO_yPug8Wgwmgb79Vtmqzp-nmSXgz5PrntZOVdrS88DVpUlGF4xwJHa0OghOKnmpToIKvnF7RF_PwjyHFJr3E8rJCaI=s128",
-  "mixinAssetId": "659c407a-0489-30bf-9e6f-84ef25c971c9",
-  "mixinChainId": "eea900a8-b327-488c-8d8d-1428702fe240",
-  "name": "Electronic Dollars",
-  "stable": false,
-  "symbol": "eUSD"
- },
  "0xE0BA86EC87df6E6797feB1F0d301576F862b05e6": {
   "chainId": 73927,
   "contract": "0xE0BA86EC87df6E6797feB1F0d301576F862b05e6",

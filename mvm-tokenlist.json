@@ -181,13 +181,6 @@
   "name": "APENFT",
   "symbol": "NFT"
  },
- "0x3764B3bE4fEa79397cA42c5C5e83d900E94AF44E": {
-  "chainId": 73927,
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/88wAADOmxy6Xw-h3JiZfXXvNDQgefLOLQgeyY5mPEWQaY9-k1_224v0Lcs4Kwi2JJNEH0wK_Zon7SVZzZbp8XMtbZJglWZSEuN3h=s128",
-  "name": "PINK",
-  "symbol": "PINK"
- },
  "0x38402aeA0D4E0D6BE99cE226e715f4D14284fBc1": {
   "chainId": 73927,
   "decimals": 8,
@@ -432,6 +425,13 @@
   "logoURI": "https://mixin-images.zeromesh.net/VvNrYJDwMh4HbKmnSQrzFvJbNd3pRtP1N-4cXFi09BluI2BMUAmxHsoXXXRO7y4q9cqs5qAXz-XondTANQgklzKu=s128",
   "name": "Handshake",
   "symbol": "HNS"
+ },
+ "0xA4874e8e9557820a768CF43241B5320Ce5212295": {
+  "chainId": 73927,
+  "decimals": 8,
+  "logoURI": "https://mixin-images.zeromesh.net/tA2t2bcv-mAzicXMG_4ZiqcJHcMKKwc8pXmcTZzpveFsHSh9sNJd9xH00ApIhDFFRWheIeClDimX4tbgyw456AI=s128",
+  "name": "4swap LP Token USDT-XIN",
+  "symbol": "sUSDT-XIN"
  },
  "0xAbd4F8013aCDf2a7B23C0fb91260D3cC980c5C38": {
   "chainId": 73927,

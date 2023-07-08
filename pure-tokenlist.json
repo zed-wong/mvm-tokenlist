@@ -219,17 +219,6 @@
   "stable": false,
   "symbol": "NFT"
  },
- "0x3764B3bE4fEa79397cA42c5C5e83d900E94AF44E": {
-  "chainId": 73927,
-  "contract": "0x3764B3bE4fEa79397cA42c5C5e83d900E94AF44E",
-  "decimals": 8,
-  "logoURI": "https://mixin-images.zeromesh.net/88wAADOmxy6Xw-h3JiZfXXvNDQgefLOLQgeyY5mPEWQaY9-k1_224v0Lcs4Kwi2JJNEH0wK_Zon7SVZzZbp8XMtbZJglWZSEuN3h=s128",
-  "mixinAssetId": "14693c1a-d835-3572-b9b4-e0cbb62099e5",
-  "mixinChainId": "6cfe566e-4aad-470b-8c9a-2fd35b49c68d",
-  "name": "PINK",
-  "stable": false,
-  "symbol": "PINK"
- },
  "0x38402aeA0D4E0D6BE99cE226e715f4D14284fBc1": {
   "chainId": 73927,
   "contract": "0x38402aeA0D4E0D6BE99cE226e715f4D14284fBc1",

@@ -248,6 +248,35 @@ func MVMChainList(name string) {
 	fmt.Println("Token info saved in", name)
 }
 
+// Only includes necessary parts for mixin usage
+//
+//	{
+//		"asset_id":"",
+//		"asset_name": "",
+//		"asset_symbol": "",
+//		"asset_icon": "",
+//		"mixin_chain_id":"",
+//		"asset_key": "",
+//	}
+func MiniumTokenlist() {
+	//o := gabs.New()
+	top, _ := readFile("mixin-top-assets.json")
+	assets := gjson.Get(top, "assets").Array()
+	for _, asset := range assets {
+		obj := gabs.New()
+		obj.Set(asset.Get("asset_id").String(), "asset_id")
+		obj.Set(asset.Get("name").String(), "name")
+		obj.Set(asset.Get("symbol").String(), "symbol")
+		obj.Set(asset.Get("icon_url").String(), "icon")
+		obj.Set(asset.Get("chain_id").String(), "chain_id")
+		obj.Set(asset.Get("asset_key").String(), "asset_key")
+		fmt.Println(obj, ",")
+	}
+	//writeFile("minium-token-list.json", o.StringIndent("", " "))
+	//fmt.Println(o.StringIndent("", " "))
+	// Doesn't work yet
+}
+
 func contains(elems []string, v string) bool {
 	for _, s := range elems {
 		if v == s {

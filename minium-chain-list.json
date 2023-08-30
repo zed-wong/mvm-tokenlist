@@ -1,0 +1,362 @@
+[
+  {
+    "asset_id": "c6d0c728-2624-429b-8e0d-d9d19b6592fa",
+    "asset_key": "c6d0c728-2624-429b-8e0d-d9d19b6592fa",
+    "chain_id": "c6d0c728-2624-429b-8e0d-d9d19b6592fa",
+    "icon": "https://mixin-images.zeromesh.net/HvYGJsV5TGeZ-X9Ek3FEQohQZ3fE9LBEBGcOcn4c4BNHovP4fW4YB97Dg5LcXoQ1hUjMEgjbl1DPlKg1TW7kK6XP=s128",
+    "name": "Bitcoin",
+    "symbol": "BTC"
+  },
+  {
+    "asset_id": "43d61dcd-e413-450d-80b8-101d5e903357",
+    "asset_key": "0x0000000000000000000000000000000000000000",
+    "chain_id": "43d61dcd-e413-450d-80b8-101d5e903357",
+    "icon": "https://mixin-images.zeromesh.net/zVDjOxNTQvVsA8h2B4ZVxuHoCF3DJszufYKWpd9duXUSbSapoZadC7_13cnWBqg0EmwmRcKGbJaUpA8wFfpgZA=s128",
+    "name": "Ether",
+    "symbol": "ETH"
+  },
+  {
+    "asset_id": "eea900a8-b327-488c-8d8d-1428702fe240",
+    "asset_key": "eea900a8-b327-488c-8d8d-1428702fe240",
+    "chain_id": "eea900a8-b327-488c-8d8d-1428702fe240",
+    "icon": "https://mixin-images.zeromesh.net/eckqDQi50ZUCoye5mR7y6BvlbXX6CBzkP89BfGNNH6TMNuyXYcCUd7knuIDpV_0W7nT1q3Oo9ooVnMDGjl8-oiENuA5UVREheUu2=s128",
+    "name": "MobileCoin",
+    "symbol": "MOB"
+  },
+  {
+    "asset_id": "6cfe566e-4aad-470b-8c9a-2fd35b49c68d",
+    "asset_key": "eosio.token:EOS",
+    "chain_id": "6cfe566e-4aad-470b-8c9a-2fd35b49c68d",
+    "icon": "https://mixin-images.zeromesh.net/OTwqLjEwc6v0JutJc-1sYkh_juFOvVbFz26WvvwfLGdKq6ZtwAT-wKhX0k-5PsgOK_Pd9rCQjZfwMJmiNXCBzpHnjapBtkCqAVCTCg=s128",
+    "name": "EOS",
+    "symbol": "EOS"
+  },
+  {
+    "asset_id": "6770a1e5-6086-44d5-b60f-545f9d9e8ffd",
+    "asset_key": "6770a1e5-6086-44d5-b60f-545f9d9e8ffd",
+    "chain_id": "6770a1e5-6086-44d5-b60f-545f9d9e8ffd",
+    "icon": "https://mixin-images.zeromesh.net/gtz8ocdxuC4N2rgEDKGc4Q6sZzWWCIGDWYBT6mHmtRubLqpE-xafvlABX6cvZ74VXL4HjyIocnX-H_Vxrz3En9tMcIKED0c-2MhH=s128",
+    "name": "Dogecoin",
+    "symbol": "DOGE"
+  },
+  {
+    "asset_id": "54c61a72-b982-4034-a556-0d99e3c21e39",
+    "asset_key": "54c61a72-b982-4034-a556-0d99e3c21e39",
+    "chain_id": "54c61a72-b982-4034-a556-0d99e3c21e39",
+    "icon": "https://mixin-images.zeromesh.net/AeLhCJ6iDloyDS50ce8OgfK-0y5ExO-1rSeBSSRxMDQNuznc-rT3Hc07DiqD44G34QQYQwmctvIxpEbLhB7KDsQ7=s128",
+    "name": "Polkadot",
+    "symbol": "DOT"
+  },
+  {
+    "asset_id": "08285081-e1d8-4be6-9edc-e203afa932da",
+    "asset_key": "08285081-e1d8-4be6-9edc-e203afa932da",
+    "chain_id": "08285081-e1d8-4be6-9edc-e203afa932da",
+    "icon": "https://mixin-images.zeromesh.net/tS53GsHItszDc8OTpREDTL1mGdUlL-oJrt0unKEPxeb35Y7V7XtdmSd9dq0rgghyrfT_KllP5w_31bwDIRsuaQg=s128",
+    "name": "Filecoin",
+    "symbol": "FIL"
+  },
+  {
+    "asset_id": "c996abc9-d94e-4494-b1cf-2a3fd3ac5714",
+    "asset_key": "c996abc9-d94e-4494-b1cf-2a3fd3ac5714",
+    "chain_id": "c996abc9-d94e-4494-b1cf-2a3fd3ac5714",
+    "icon": "https://mixin-images.zeromesh.net/9QWOYgcD0H7q1cH6PaSM08FQ549epnEzqIQ2EgEfK2s82jhsIu1wDKmsR7rkPFwjIYKOILteq7mW1hIaXcy4DhI=s128",
+    "name": "Zcash",
+    "symbol": "ZEC"
+  },
+  {
+    "asset_id": "76c802a2-7c88-447f-a93e-c29c9e5dd9c8",
+    "asset_key": "76c802a2-7c88-447f-a93e-c29c9e5dd9c8",
+    "chain_id": "76c802a2-7c88-447f-a93e-c29c9e5dd9c8",
+    "icon": "https://mixin-images.zeromesh.net/dLK5T9I4YFA094o6nn-qZ_TWLUtIrL0xtjxOyURaLoPcl94m0JKQhXQiOrC775LS9d8apDfLXVfbpDzGmWDf0CWJ=s128",
+    "name": "Litecoin",
+    "symbol": "LTC"
+  },
+  {
+    "asset_id": "17f78d7c-ed96-40ff-980c-5dc62fecbc85",
+    "asset_key": "BNB",
+    "chain_id": "17f78d7c-ed96-40ff-980c-5dc62fecbc85",
+    "icon": "https://mixin-images.zeromesh.net/HCjLu6VM0XA7ouRcZJGDTOzE7zoXaA8LgESw075VW5teZ27AGUgyGrc4jnzuK5LtgT5HJQDSNSOImnU3IcUsBLoF=s128",
+    "name": "Binance Chain Native Token",
+    "symbol": "BNB"
+  },
+  {
+    "asset_id": "990c4c29-57e9-48f6-9819-7d986ea44985",
+    "asset_key": "siacoin",
+    "chain_id": "990c4c29-57e9-48f6-9819-7d986ea44985",
+    "icon": "https://mixin-images.zeromesh.net/K1qFRFwAn2aJ-SEM4Tya7y_HBelBZsL5J1WEdZX4S3-APXHExcsZUYdyQAMRhgebcto3CF_OLoImx8U9-4-M7C4=s128",
+    "name": "Siacoin",
+    "symbol": "SC"
+  },
+  {
+    "asset_id": "64692c23-8971-4cf4-84a7-4dd1271dd887",
+    "asset_key": "11111111111111111111111111111111",
+    "chain_id": "64692c23-8971-4cf4-84a7-4dd1271dd887",
+    "icon": "https://mixin-images.zeromesh.net/eTzm8_cWke8NqJ3zbQcx7RkvbcTytD_NgBpdwIAgKJRpOoo0S0AQ3IQ-YeBJgUKmpsMPUHcZFzfuWowv3801cF5HXfya5MQ9fTA9HQ=s128",
+    "name": "Solana",
+    "symbol": "SOL"
+  },
+  {
+    "asset_id": "23dfb5a5-5d7b-48b6-905f-3970e3176e27",
+    "asset_key": "23dfb5a5-5d7b-48b6-905f-3970e3176e27",
+    "chain_id": "23dfb5a5-5d7b-48b6-905f-3970e3176e27",
+    "icon": "https://mixin-images.zeromesh.net/SyX2tH2mBbSc45IfkOysbbd8WtPEjla5R3xT9ym0tbKv_vAyzl_Jd5qEYsOhKyuFRv09w3uB4Vzs2XJuJzZeO7e_=s128",
+    "name": "Ripple",
+    "symbol": "XRP"
+  },
+  {
+    "asset_id": "25dabac5-056a-48ff-b9f9-f67395dc407c",
+    "asset_key": "25dabac5-056a-48ff-b9f9-f67395dc407c",
+    "chain_id": "25dabac5-056a-48ff-b9f9-f67395dc407c",
+    "icon": "https://mixin-images.zeromesh.net/SXfRh0WJZpHrDAbBItuwwLp_TPML7hrbAPHGIz_EQRga0fFm5yGtNd55_W0ZZv9HRj_6W6kE4O4tq8W78mutAPE=s128",
+    "name": "TRON",
+    "symbol": "TRX"
+  },
+  {
+    "asset_id": "fd11b6e3-0b87-41f1-a41f-f0e9b49e5bf0",
+    "asset_key": "fd11b6e3-0b87-41f1-a41f-f0e9b49e5bf0",
+    "chain_id": "fd11b6e3-0b87-41f1-a41f-f0e9b49e5bf0",
+    "icon": "https://mixin-images.zeromesh.net/tqt14x8iwkiCR_vIKIw6gAAVO8XpZH7ku7ZJYB5ArMRA6grN9M1oCI7kKt2QqBODJwr17sZxDCDTjXHOgIixzv6X=s128",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH"
+  },
+  {
+    "asset_id": "05c5ac01-31f9-4a69-aa8a-ab796de1d041",
+    "asset_key": "05c5ac01-31f9-4a69-aa8a-ab796de1d041",
+    "chain_id": "05c5ac01-31f9-4a69-aa8a-ab796de1d041",
+    "icon": "https://mixin-images.zeromesh.net/sdlLs6NIN7Qd_fM3z4k-s4GtamiHo4pafLve7P7hnHaLEPs2ld0FSscEzqjdytGY2q8e-AyfCNVfqXbXYYqb8cwUf-X3oI2jRTZN=s128",
+    "name": "Monero",
+    "symbol": "XMR"
+  },
+  {
+    "asset_id": "7397e9f1-4e42-4dc8-8a3b-171daaadd436",
+    "asset_key": "uatom",
+    "chain_id": "7397e9f1-4e42-4dc8-8a3b-171daaadd436",
+    "icon": "https://mixin-images.zeromesh.net/t-HH_7zAE5Y7OG9WgC1muIeFWJee4WypzbdJ5FjakEIivRYnSz89CBR4twXH-K_wFFodURRhYulVY-PrOO35ZoQ=s128",
+    "name": "Cosmos",
+    "symbol": "ATOM"
+  },
+  {
+    "asset_id": "882eb041-64ea-465f-a4da-817bd3020f52",
+    "asset_key": "882eb041-64ea-465f-a4da-817bd3020f52",
+    "chain_id": "882eb041-64ea-465f-a4da-817bd3020f52",
+    "icon": "https://mixin-images.zeromesh.net/MDStWtCYDjGvGeEZp70xJduXK2cAEkQD9HkY-qi7m7yM4OOjjQqr3dVDcmvo55QBz96FqgygDj4aAz7leP5fISk=s128",
+    "name": "Arweave",
+    "symbol": "AR"
+  },
+  {
+    "asset_id": "f8b77dc0-46fd-4ea1-9821-587342475869",
+    "asset_key": "f8b77dc0-46fd-4ea1-9821-587342475869",
+    "chain_id": "f8b77dc0-46fd-4ea1-9821-587342475869",
+    "icon": "https://mixin-images.zeromesh.net/UtlEMoi7t6Q9p99oJ2KNLnMjajCrxdPanUJVw7_Emq4_G7fGsFhyWBQljFTrCFe-STHq3fsyt1asO78AtrD2ci4=s128",
+    "name": "Namecoin",
+    "symbol": "NMC"
+  },
+  {
+    "asset_id": "56e63c06-b506-4ec5-885a-4a5ac17b83c1",
+    "asset_key": "56e63c06-b506-4ec5-885a-4a5ac17b83c1",
+    "chain_id": "56e63c06-b506-4ec5-885a-4a5ac17b83c1",
+    "icon": "https://mixin-images.zeromesh.net/ViaQAx1SjMrLNWwncMfOHYzB4uaWXusmvZ1OErxwf4kME6kkadICrxnXBvavw94ZEn_fa-lfDAR1g9Jb6J9PqaJ4cDPp4A8CW18=s128",
+    "name": "Stellar",
+    "symbol": "XLM"
+  },
+  {
+    "asset_id": "d243386e-6d84-42e6-be03-175be17bf275",
+    "asset_key": "d243386e-6d84-42e6-be03-175be17bf275",
+    "chain_id": "d243386e-6d84-42e6-be03-175be17bf275",
+    "icon": "https://mixin-images.zeromesh.net/kXBeculJqfAx4P6g0iOhEmtk_W9qAw5aeGDY-VWVxFauxEwSuY0DPYA09LijapPY5CgbTKMw8NBBvuZ3Fy2aUBUrBeA63aTo4nJ-Bw=s128",
+    "name": "Nervos CKByte",
+    "symbol": "CKB"
+  },
+  {
+    "asset_id": "2204c1ee-0ea2-4add-bb9a-b3719cfff93a",
+    "asset_key": "0x0000000000000000000000000000000000000000",
+    "chain_id": "2204c1ee-0ea2-4add-bb9a-b3719cfff93a",
+    "icon": "https://mixin-images.zeromesh.net/fM9wgyNyB3Uiopx2FRFxhr-sYrvXZtJ-uCpk975wGdpoehoA59rIU-BQ4s_6YFMDEthQ74KCPysOIWSFK4vUG_Y=s128",
+    "name": "Ether Classic",
+    "symbol": "ETC"
+  },
+  {
+    "asset_id": "a2c5d22b-62a2-4c13-b3f0-013290dbac60",
+    "asset_key": "a2c5d22b-62a2-4c13-b3f0-013290dbac60",
+    "chain_id": "a2c5d22b-62a2-4c13-b3f0-013290dbac60",
+    "icon": "https://mixin-images.zeromesh.net/CFQzgS3lZztswzt8mKVWAOWAJDhlQQw2gQZN4_-2bRAzRivObDq-KOdjGIv_vcY6FGJLFlFxN4vSrFb7t0uxsQ=s128",
+    "name": "Horizen",
+    "symbol": "ZEN"
+  },
+  {
+    "asset_id": "b7938396-3f94-4e0a-9179-d3440718156f",
+    "asset_key": "0x0000000000000000000000000000000000000000",
+    "chain_id": "b7938396-3f94-4e0a-9179-d3440718156f",
+    "icon": "https://mixin-images.zeromesh.net/xFl-wIKkfzrKDnJMX1PjvcXyKYrW88yLvtiEHdudNkPnSZmY9CzibAlNp3C_wM6LFP9UzsBX-YlVNW_zoUNPWO5cowzT0Us48BOE=s128",
+    "name": "Polygon",
+    "symbol": "MATIC"
+  },
+  {
+    "asset_id": "cbc77539-0a20-4666-8c8a-4ded62b36f0a",
+    "asset_key": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+    "chain_id": "cbc77539-0a20-4666-8c8a-4ded62b36f0a",
+    "icon": "https://mixin-images.zeromesh.net/0XWvbsGDaeVcrILNgH0fYj55oa_4H4bTx_k1Nm35qSbx0VzuAPyoJm3ZFXD7jHH-OFyJDGPOWJo1dJ1B-YMt3823vVBsCgmctvo=s128",
+    "name": "Avalanche",
+    "symbol": "AVAX"
+  },
+  {
+    "asset_id": "13036886-6b83-4ced-8d44-9f69151587bf",
+    "asset_key": "13036886-6b83-4ced-8d44-9f69151587bf",
+    "chain_id": "13036886-6b83-4ced-8d44-9f69151587bf",
+    "icon": "https://mixin-images.zeromesh.net/VvNrYJDwMh4HbKmnSQrzFvJbNd3pRtP1N-4cXFi09BluI2BMUAmxHsoXXXRO7y4q9cqs5qAXz-XondTANQgklzKu=s128",
+    "name": "Handshake",
+    "symbol": "HNS"
+  },
+  {
+    "asset_id": "706b6f84-3333-4e55-8e89-275e71ce9803",
+    "asset_key": "706b6f84-3333-4e55-8e89-275e71ce9803",
+    "chain_id": "706b6f84-3333-4e55-8e89-275e71ce9803",
+    "icon": "https://mixin-images.zeromesh.net/-oE4Jsi3aMIkxUPUsvDozyL8D0ccmPkggIdIDu1z8THDQyJcCIsbNwC4amFBiRlkQiLNNjiuMBsNw8sAnehTuI0=s128",
+    "name": "Algorand",
+    "symbol": "ALGO"
+  },
+  {
+    "asset_id": "1949e683-6a08-49e2-b087-d6b72398588f",
+    "asset_key": "0x0000000000000000000000000000000000000000",
+    "chain_id": "1949e683-6a08-49e2-b087-d6b72398588f",
+    "icon": "https://mixin-images.zeromesh.net/1_44tuBHW1cFfsPnzmzQE8aULR438AT_fjqOsXJp1LEVPSDHox45dI0WGsnzgz9rDRYnA92sWMaMDGWt-oePEFV5qp8HrCFvd7I=s128",
+    "name": "Binance Token",
+    "symbol": "BNB"
+  },
+  {
+    "asset_id": "d6ac94f7-c932-4e11-97dd-617867f0669e",
+    "asset_key": "d6ac94f7-c932-4e11-97dd-617867f0669e",
+    "chain_id": "d6ac94f7-c932-4e11-97dd-617867f0669e",
+    "icon": "https://mixin-images.zeromesh.net/0nSi93kH8io-seyMPFcDrmqH1P-tcGfW7DPdGBJ-GCPPrb-pHFO6bguU-wU1N62FkrWXJYL8hS47L5agAS0zJVpv1wf89-f-EBs=s128",
+    "name": "NEAR",
+    "symbol": "NEAR"
+  },
+  {
+    "asset_id": "574388fd-b93f-4034-a682-01c2bc095d17",
+    "asset_key": "574388fd-b93f-4034-a682-01c2bc095d17",
+    "chain_id": "574388fd-b93f-4034-a682-01c2bc095d17",
+    "icon": "https://mixin-images.zeromesh.net/1iUl5doLjMSv-ElcVCI4YgD1uIayDbZcQP0WjFEajoY1-qQZmVEl5GgUCtsp8CP0aj96a5Rwi-weQ5YA64lyQzU=s128",
+    "name": "Bitcoin SV",
+    "symbol": "BSV"
+  },
+  {
+    "asset_id": "9c612618-ca59-4583-af34-be9482f5002d",
+    "asset_key": "uakt",
+    "chain_id": "9c612618-ca59-4583-af34-be9482f5002d",
+    "icon": "https://mixin-images.zeromesh.net/96l-LTbahgBXnKfLRHtiQybyk9kpA-eVIMYnzs4twATFtIq3Ayvw5zRfhGrt5IOGqUxxJuFXINJMTNkRlWpnFVbsA4Ep6FAn0pWP=s128",
+    "name": "Akash Network",
+    "symbol": "AKT"
+  },
+  {
+    "asset_id": "6472e7e3-75fd-48b6-b1dc-28d294ee1476",
+    "asset_key": "6472e7e3-75fd-48b6-b1dc-28d294ee1476",
+    "chain_id": "6472e7e3-75fd-48b6-b1dc-28d294ee1476",
+    "icon": "https://mixin-images.zeromesh.net/UEGZCbh_zPbCrah2vhzNBATOBi_7XhgZLKNDe8U49ZxIEAtUC0SO-nvG0QnOMOBM0XrGv5Z5FskxhNfZVYMaGQjqcvUrzzB6JBkc=s128",
+    "name": "Dash",
+    "symbol": "DASH"
+  },
+  {
+    "asset_id": "27921032-f73e-434e-955f-43d55672ee31",
+    "asset_key": "27921032-f73e-434e-955f-43d55672ee31",
+    "chain_id": "27921032-f73e-434e-955f-43d55672ee31",
+    "icon": "https://mixin-images.zeromesh.net/I9f9bWw457YiAGMxyrNtu4aCezzgnnIYuxnNBzkN3aGG32HeOzFl-nA4miBRnU-3qnNylyiDZqoS-JfzfstnuQ=s128",
+    "name": "NEM",
+    "symbol": "XEM"
+  },
+  {
+    "asset_id": "05891083-63d2-4f3d-bfbe-d14d7fb9b25a",
+    "asset_key": "1.3.0",
+    "chain_id": "05891083-63d2-4f3d-bfbe-d14d7fb9b25a",
+    "icon": "https://mixin-images.zeromesh.net/vPCw4G1BhBWLzFSVt8jMJxq7LhQgVRbn_IbgJif9mixgLyJfBTlrc4TbELTThAwQCdVqikJQNDDQ84nQZLVf1yGm=s128",
+    "name": "BTS",
+    "symbol": "BTS"
+  },
+  {
+    "asset_id": "5649ca42-eb5f-4c0e-ae28-d9a4e77eded3",
+    "asset_key": "5649ca42-eb5f-4c0e-ae28-d9a4e77eded3",
+    "chain_id": "5649ca42-eb5f-4c0e-ae28-d9a4e77eded3",
+    "icon": "https://mixin-images.zeromesh.net/5st3i_y2vTKd6HAbxSKk9HtC68oj_m5BowKpXNzzgjiSnYQRLfF14pFS_4pMCNQVjjQyA6EO6E5Gn_BhyGv02OA=s128",
+    "name": "Tezos",
+    "symbol": "XTZ"
+  },
+  {
+    "asset_id": "6877d485-6b64-4225-8d7e-7333393cb243",
+    "asset_key": "6877d485-6b64-4225-8d7e-7333393cb243",
+    "chain_id": "6877d485-6b64-4225-8d7e-7333393cb243",
+    "icon": "https://mixin-images.zeromesh.net/qC2t9WkMv8f3O4LolVvaXKP9cuHXklYW-3bSu4Cl3WSRHkAkIGdQlBH4qqluZxqy7lnyuP9ffIVGXMNKTFF2AFQY=s128",
+    "name": "Ravencoin",
+    "symbol": "RVN"
+  },
+  {
+    "asset_id": "9d29e4f6-d67c-4c4b-9525-604b04afbe9f",
+    "asset_key": "9d29e4f6-d67c-4c4b-9525-604b04afbe9f",
+    "chain_id": "9d29e4f6-d67c-4c4b-9525-604b04afbe9f",
+    "icon": "https://mixin-images.zeromesh.net/PfvTs8aqyffhTwGwQhmJ6QbGgZwWsdvP3j4B-y_6b1ANjjtdzymM6HjK2g2RDRmikuF6pMSgL0t2ItBqrsW64QfJ=s128",
+    "name": "Kusama",
+    "symbol": "KSM"
+  },
+  {
+    "asset_id": "8f5caf2a-283d-4c85-832a-91e83bbf290b",
+    "asset_key": "8f5caf2a-283d-4c85-832a-91e83bbf290b",
+    "chain_id": "8f5caf2a-283d-4c85-832a-91e83bbf290b",
+    "icon": "https://mixin-images.zeromesh.net/ATSnFPH9vp6WPJ-KB9h_2JT93519YUPBbbbgAbPJBStlF3tFkP70iiZqDGi8ha-LssoqHMdRItF2_Un4FbglYMI=s128",
+    "name": "Decred",
+    "symbol": "DCR"
+  },
+  {
+    "asset_id": "d2c1c7e1-a1a9-4f88-b282-d93b0a08b42b",
+    "asset_key": "0x1::aptos_coin::AptosCoin",
+    "chain_id": "d2c1c7e1-a1a9-4f88-b282-d93b0a08b42b",
+    "icon": "https://mixin-images.zeromesh.net/vL_RBptRmAqV9iEPkARWUhQP0WqI9jPBMLNyJezvspZ4hPD9hq5SBluUKMwd_iG8Hpn3cS6nJML2Ji50D0zCBRVXXzUeM5gXnimt4w=s128",
+    "name": "Aptos",
+    "symbol": "APT"
+  },
+  {
+    "asset_id": "ef660437-d915-4e27-ad3f-632bfb6ba0ee",
+    "asset_key": "ef660437-d915-4e27-ad3f-632bfb6ba0ee",
+    "chain_id": "ef660437-d915-4e27-ad3f-632bfb6ba0ee",
+    "icon": "https://mixin-images.zeromesh.net/T0pGzs4lg7sIKIEIb1diV_8kbrG5R96dOQD7ukTwBmSxE_xwYayRihxQ2but5Ed3zOor9zcQ5Qq4bpyzVaj6FPxymRSc7fjC_l_E=s128",
+    "name": "Toncoin",
+    "symbol": "TON"
+  },
+  {
+    "asset_id": "71a0e8b5-a289-4845-b661-2b70ff9968aa",
+    "asset_key": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "chain_id": "71a0e8b5-a289-4845-b661-2b70ff9968aa",
+    "icon": "https://mixin-images.zeromesh.net/XX0uDzi6b76ZP2oend6OgCWBUc9QPp1rfoFOIRN40aogbpdT0jp_dV1jgzaCnShK5DD6ETL8xSIQMYOEXrJrvqElwfG-UZ65s35sdg=s128",
+    "name": "Bytom",
+    "symbol": "BTM"
+  },
+  {
+    "asset_id": "c99a3779-93df-404d-945d-eddc440aa0b2",
+    "asset_key": "0x00000000000000000000000000000001::STC::STC",
+    "chain_id": "c99a3779-93df-404d-945d-eddc440aa0b2",
+    "icon": "https://mixin-images.zeromesh.net/JQLe3hGUmnLVoxYjd0Cs3qz8v16pbZxJ-agzzxhBAmhYcPk24p9WJ4OIXpdaVyTE4IPQW8YYJoszORwJx5E2HK4Oa3qtiXyiOiM=s128",
+    "name": "Starcoin",
+    "symbol": "STC"
+  },
+  {
+    "asset_id": "1351e6bd-66cf-40c1-8105-8a8fe518a222",
+    "asset_key": "1351e6bd-66cf-40c1-8105-8a8fe518a222",
+    "chain_id": "1351e6bd-66cf-40c1-8105-8a8fe518a222",
+    "icon": "https://mixin-images.zeromesh.net/0rUV7Qlq3BkRbjf9DL1gt0f2cH92-oeDmnr2SL2MBe6h0WLDqX6krEKR-IXGC6O2y2CLwyYcikLbUVc_GbwUgz4=s128",
+    "name": "Grin",
+    "symbol": "GRIN"
+  },
+  {
+    "asset_id": "b12bb04a-1cea-401c-a086-0be61f544889",
+    "asset_key": "xdc0000000000000000000000000000000000000000",
+    "chain_id": "b12bb04a-1cea-401c-a086-0be61f544889",
+    "icon": "https://mixin-images.zeromesh.net/M_P4l_lJtQj39Nq0sSprAv69Qt9EsXNyMHMSfb58RMiEVLX77DAe2UtZPjLQr5b-dugJUf_lK8rtPjnBHUp_zCU2Z5CeOgNz0A69=s128",
+    "name": "XDC Network",
+    "symbol": "XDC"
+  },
+  {
+    "asset_id": "a0ffd769-5850-4b48-9651-d2ae44a3e64d",
+    "asset_key": "0x0000000000000000000000000000000000000000",
+    "chain_id": "a0ffd769-5850-4b48-9651-d2ae44a3e64d",
+    "icon": "https://mixin-images.zeromesh.net/vm1bPYLB1DkzRVTpU6gr6jtbM0A-pg5lbgMy6qhYBHWnoq5xi3SxEoHGfdFsNUjuLKHalnvr77pZYoPvFY7qymdqSvABZl154dBp=s128",
+    "name": "Ether",
+    "symbol": "ETH"
+  }
+]

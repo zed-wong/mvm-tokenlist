@@ -255,8 +255,10 @@ func MVMChainList(name string) {
 //		"asset_name": "",
 //		"asset_symbol": "",
 //		"asset_icon": "",
-//		"mixin_chain_id":"",
 //		"asset_key": "",
+//		"chain_id":"",
+//		"chain_name":"",
+//		"chain_icon":"",
 //	}
 func MiniumTokenlist() {
 	top, _ := readFile("mixin-top-assets.json")
@@ -269,6 +271,10 @@ func MiniumTokenlist() {
 		obj.Set(asset.Get("icon_url").String(), "icon")
 		obj.Set(asset.Get("chain_id").String(), "chain_id")
 		obj.Set(asset.Get("asset_key").String(), "asset_key")
+
+		chainAsset := gjson.Get(top, fmt.Sprintf(`assets.#(asset_id==%s)`, asset.Get("chain_id").String()))
+		obj.Set(chainAsset.Get("name").String(), "chain_name")
+		obj.Set(chainAsset.Get("icon_url").String(), "chain_icon")
 		fmt.Printf("%s,", obj)
 	}
 }
@@ -289,6 +295,10 @@ func MiniumChainlist() {
 			fmt.Printf("%s,", obj)
 		}
 	}
+}
+
+func AssetIDChainNameList() {
+
 }
 
 func contains(elems []string, v string) bool {
@@ -347,8 +357,11 @@ func AssetKeyList(name string) {
 }
 
 func main() {
-	PureTokenlist(NAMES[0])
-	llamaTokenlist(NAMES[1])
-	MVMChainList(NAMES[2])
-	AssetKeyList(NAMES[3])
+	/*
+		PureTokenlist(NAMES[0])
+		llamaTokenlist(NAMES[1])
+		MVMChainList(NAMES[2])
+		AssetKeyList(NAMES[3])
+	*/
+	MiniumTokenlist()
 }
